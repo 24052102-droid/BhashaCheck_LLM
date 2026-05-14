@@ -1,0 +1,30 @@
+Sentence 215
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'గ్రామస్తులు కలిసి పండుగ జరుపుకుంటున్నారు।',
+  'ground_truth': 'గ్రామస్తులు కలిసి పండుగ జరుపుకుంటున్నారు।',
+  'predicted_sentence': 'గ్రామస్తులు కలిసి పండుగ జరుపుకుంటున్నారు।',
+  'confidence': 0.6957,
+  'status': 'WRONG'
+}
+
+Sentence 220
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'ground_truth': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'predicted_sentence': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'confidence': 0.7156,
+  'status': 'WRONG'
+}
+
+Sentence 250
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'విద్యార్థులు కంప్యూటర్ నేర్చుకుంటున్నారు।',
+  'ground_truth': 'విద్యార్థులు కంప్యూటర్ నేర్చుకుంటున్నారు।',
+  'predicted_sentence': 'విద్యార్థులు కంప్యూటర్ నేర్చుకుంటున్నారు।',
+  'confidence': 0.7355,
+  'status': 'WRONG'
+}
+

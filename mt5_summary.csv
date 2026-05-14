@@ -1,0 +1,6 @@
+Language,Correct,Wrong,Accuracy,Average Confidence
+bhojpuri.txt,49,1,0.98,0.7591
+hindi.txt,44,6,0.88,0.7654
+kannada.txt,32,18,0.64,0.6886
+maithili.txt,46,4,0.92,0.7192
+telugu.txt,29,21,0.58,0.6722

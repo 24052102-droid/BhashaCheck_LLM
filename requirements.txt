@@ -1,0 +1,6 @@
+transformers
+torch
+sentencepiece
+protobuf        # FIX: required by mT5 and IndicTrans2 tokenizers; missing causes import crash
+scikit-learn
+numpy

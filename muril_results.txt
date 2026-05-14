@@ -1,0 +1,2750 @@
+Sentence 1
+{
+  'sentence_number': 1,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'हम आज इसकूल जाए में देरी कर देनी।',
+  'ground_truth': 'हम आज इसकूल जाए में देरी कर देनी।',
+  'predicted_sentence': 'हम आज इसकूल जाए में देरी कर देनी।',
+  'confidence': 0.8205,
+  'status': 'CORRECT'
+}
+
+Sentence 2
+{
+  'sentence_number': 2,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'राम रोज बिहान जल्दी उठ के योगा करेला।',
+  'ground_truth': 'राम रोज बिहान जल्दी उठ के योगा करेला।',
+  'predicted_sentence': 'राम रोज बिहान जल्दी उठ के योगा करेला।',
+  'confidence': 0.9839,
+  'status': 'CORRECT'
+}
+
+Sentence 3
+{
+  'sentence_number': 3,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'भारत कई गो भाषा आ संस्कृति वाला देस ह।',
+  'ground_truth': 'भारत कई गो भाषा आ संस्कृति वाला देस ह।',
+  'predicted_sentence': 'भारत कई गो भाषा आ संस्कृति वाला देस ह।',
+  'confidence': 0.9980,
+  'status': 'CORRECT'
+}
+
+Sentence 4
+{
+  'sentence_number': 4,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'बच्चा लोग के हमेशा सच बोले के चाहीं।',
+  'ground_truth': 'बच्चा लोग के हमेशा सच बोले के चाहीं।',
+  'predicted_sentence': 'बच्चा लोग के हमेशा सच बोले के चाहीं।',
+  'confidence': 0.9400,
+  'status': 'CORRECT'
+}
+
+Sentence 5
+{
+  'sentence_number': 5,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'आज मौसम बहुत नीक बा।',
+  'ground_truth': 'आज मौसम बहुत नीक बा।',
+  'predicted_sentence': 'आज मौसम बहुत नीक बा।',
+  'confidence': 0.9992,
+  'status': 'CORRECT'
+}
+
+Sentence 6
+{
+  'sentence_number': 6,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'किसान खेत में गहूँ काट रहल बा।',
+  'ground_truth': 'किसान खेत में गहूँ काट रहल बा।',
+  'predicted_sentence': 'किसान खेत में गहूँ काट रहल बा।',
+  'confidence': 0.9980,
+  'status': 'CORRECT'
+}
+
+Sentence 7
+{
+  'sentence_number': 7,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'हमनी के अपना माई-बाप के आदर करे के चाहीं।',
+  'ground_truth': 'हमनी के अपना माई-बाप के आदर करे के चाहीं।',
+  'predicted_sentence': 'हमनी के अपना माई-बाप के आदर करे के चाहीं।',
+  'confidence': 0.9906,
+  'status': 'CORRECT'
+}
+
+Sentence 8
+{
+  'sentence_number': 8,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'ऊ लाइब्रेरी में किताब पढ़त रहली।',
+  'ground_truth': 'ऊ लाइब्रेरी में किताब पढ़त रहली।',
+  'predicted_sentence': 'ऊ लाइब्रेरी में किताब पढ़त रहली।',
+  'confidence': 0.9957,
+  'status': 'CORRECT'
+}
+
+Sentence 9
+{
+  'sentence_number': 9,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'रेलगाड़ी आज देरी से पहुँचल।',
+  'ground_truth': 'रेलगाड़ी आज देरी से पहुँचल।',
+  'predicted_sentence': 'रेलगाड़ी आज देरी से पहुँचल।',
+  'confidence': 0.9990,
+  'status': 'CORRECT'
+}
+
+Sentence 10
+{
+  'sentence_number': 10,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'डाक्टर मरीज के दवाई समय पर खाए के कहलन।',
+  'ground_truth': 'डाक्टर मरीज के दवाई समय पर खाए के कहलन।',
+  'predicted_sentence': 'डाक्टर मरीज के दवाई समय पर खाए के कहलन।',
+  'confidence': 0.9901,
+  'status': 'CORRECT'
+}
+
+Sentence 11
+{
+  'sentence_number': 11,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'पेड़ से साफ हवा मिलेला।',
+  'ground_truth': 'पेड़ से साफ हवा मिलेला।',
+  'predicted_sentence': 'पेड़ से साफ हवा मिलेला।',
+  'confidence': 0.9133,
+  'status': 'CORRECT'
+}
+
+Sentence 12
+{
+  'sentence_number': 12,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'लइका लोग परीक्षा खातिर मेहनत करत बा।',
+  'ground_truth': 'लइका लोग परीक्षा खातिर मेहनत करत बा।',
+  'predicted_sentence': 'लइका लोग परीक्षा खातिर मेहनत करत बा।',
+  'confidence': 0.9870,
+  'status': 'CORRECT'
+}
+
+Sentence 13
+{
+  'sentence_number': 13,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'नदी में बरखा से पानी बढ़ गइल बा।',
+  'ground_truth': 'नदी में बरखा से पानी बढ़ गइल बा।',
+  'predicted_sentence': 'नदी में बरखा से पानी बढ़ गइल बा।',
+  'confidence': 0.9597,
+  'status': 'CORRECT'
+}
+
+Sentence 14
+{
+  'sentence_number': 14,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'ऊ अपना दोस्त के जनमदिन के बधाई दिहलस।',
+  'ground_truth': 'ऊ अपना दोस्त के जनमदिन के बधाई दिहलस।',
+  'predicted_sentence': 'ऊ अपना दोस्त के जनमदिन के बधाई दिहलस।',
+  'confidence': 0.9856,
+  'status': 'CORRECT'
+}
+
+Sentence 15
+{
+  'sentence_number': 15,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'गाँव में सभे मिलके परोगराम मना रहल बा।',
+  'ground_truth': 'गाँव में सभे मिलके परोगराम मना रहल बा।',
+  'predicted_sentence': 'गाँव में सभे मिलके परोगराम मना रहल बा।',
+  'confidence': 0.9856,
+  'status': 'CORRECT'
+}
+
+Sentence 16
+{
+  'sentence_number': 16,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'हमरा गणित के सवाल हल करे में मजा आवेला।',
+  'ground_truth': 'हमरा गणित के सवाल हल करे में मजा आवेला।',
+  'predicted_sentence': 'हमरा गणित के सवाल हल करे में मजा आवेला।',
+  'confidence': 0.9925,
+  'status': 'CORRECT'
+}
+
+Sentence 17
+{
+  'sentence_number': 17,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'चिरई बिहान में मीठ आवाज करेले।',
+  'ground_truth': 'चिरई बिहान में मीठ आवाज करेले।',
+  'predicted_sentence': 'चिरई बिहान में मीठ आवाज करेले।',
+  'confidence': 0.9118,
+  'status': 'CORRECT'
+}
+
+Sentence 18
+{
+  'sentence_number': 18,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'समय के सही उपयोग करे के चाहीं।',
+  'ground_truth': 'समय के सही उपयोग करे के चाहीं।',
+  'predicted_sentence': 'समय के सही उपयोग करे के चाहीं।',
+  'confidence': 0.9983,
+  'status': 'CORRECT'
+}
+
+Sentence 19
+{
+  'sentence_number': 19,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'सुरज पूरुब दिशा से निकलऽता।',
+  'ground_truth': 'सुरज पूरुब दिशा से निकलऽता।',
+  'predicted_sentence': 'सुरज पूरुब दिशा से निकलऽता।',
+  'confidence': 0.9650,
+  'status': 'CORRECT'
+}
+
+Sentence 20
+{
+  'sentence_number': 20,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'गुरुजी नया पाठ पढ़वले।',
+  'ground_truth': 'गुरुजी नया पाठ पढ़वले।',
+  'predicted_sentence': 'गुरुजी नया पाठ पढ़वले।',
+  'confidence': 0.9788,
+  'status': 'CORRECT'
+}
+
+Sentence 21
+{
+  'sentence_number': 21,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'हमरा आम खाए बहुत पसंद बा।',
+  'ground_truth': 'हमरा आम खाए बहुत पसंद बा।',
+  'predicted_sentence': 'हमरा आम खाए बहुत पसंद बा।',
+  'confidence': 0.9391,
+  'status': 'CORRECT'
+}
+
+Sentence 22
+{
+  'sentence_number': 22,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'ऊ अपना दादा जी संगे बजार गइल रहे।',
+  'ground_truth': 'ऊ अपना दादा जी संगे बजार गइल रहे।',
+  'predicted_sentence': 'ऊ अपना दादा जी संगे बजार गइल रहे।',
+  'confidence': 0.9960,
+  'status': 'CORRECT'
+}
+
+Sentence 23
+{
+  'sentence_number': 23,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'बरखा से सड़क पर पानी भर गइल।',
+  'ground_truth': 'बरखा से सड़क पर पानी भर गइल।',
+  'predicted_sentence': 'बरखा से सड़क पर पानी भर गइल।',
+  'confidence': 0.9854,
+  'status': 'CORRECT'
+}
+
+Sentence 24
+{
+  'sentence_number': 24,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'सभे बच्चा मिलके इसकूल साफ कइलस।',
+  'ground_truth': 'सभे बच्चा मिलके इसकूल साफ कइलस।',
+  'predicted_sentence': 'सभे बच्चा मिलके इसकूल साफ कइलस।',
+  'confidence': 0.8919,
+  'status': 'CORRECT'
+}
+
+Sentence 25
+{
+  'sentence_number': 25,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'पर्यावरण बचावे खातिर पेड़ लगावे के चाहीं।',
+  'ground_truth': 'पर्यावरण बचावे खातिर पेड़ लगावे के चाहीं।',
+  'predicted_sentence': 'पर्यावरण बचावे खातिर पेड़ लगावे के चाहीं।',
+  'confidence': 0.9984,
+  'status': 'CORRECT'
+}
+
+Sentence 26
+{
+  'sentence_number': 26,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'हमार बहिन रोज गाना के अभ्यास करेले।',
+  'ground_truth': 'हमार बहिन रोज गाना के अभ्यास करेले।',
+  'predicted_sentence': 'हमार बहिन रोज गाना के अभ्यास करेले।',
+  'confidence': 0.9959,
+  'status': 'CORRECT'
+}
+
+Sentence 27
+{
+  'sentence_number': 27,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'काल्ह रात बहुत तारा देखात रहे।',
+  'ground_truth': 'काल्ह रात बहुत तारा देखात रहे।',
+  'predicted_sentence': 'काल्ह रात बहुत तारा देखात रहे।',
+  'confidence': 0.9918,
+  'status': 'CORRECT'
+}
+
+Sentence 28
+{
+  'sentence_number': 28,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'पुलिस चोर के पकड़ लिहलस।',
+  'ground_truth': 'पुलिस चोर के पकड़ लिहलस।',
+  'predicted_sentence': 'पुलिस चोर के पकड़ लिहलस।',
+  'confidence': 0.9934,
+  'status': 'CORRECT'
+}
+
+Sentence 29
+{
+  'sentence_number': 29,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'किताब पढ़ला से ज्ञान बढ़ेला।',
+  'ground_truth': 'किताब पढ़ला से ज्ञान बढ़ेला।',
+  'predicted_sentence': 'किताब पढ़ला से ज्ञान बढ़ेला।',
+  'confidence': 0.9964,
+  'status': 'CORRECT'
+}
+
+Sentence 30
+{
+  'sentence_number': 30,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'बूढ़ आदमी धीरे-धीरे सड़क पार करत रहे।',
+  'ground_truth': 'बूढ़ आदमी धीरे-धीरे सड़क पार करत रहे।',
+  'predicted_sentence': 'बूढ़ आदमी धीरे-धीरे सड़क पार करत रहे।',
+  'confidence': 0.9856,
+  'status': 'CORRECT'
+}
+
+Sentence 31
+{
+  'sentence_number': 31,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'मोहन अपना दोस्त के उपहार दिहलस।',
+  'ground_truth': 'मोहन अपना दोस्त के उपहार दिहलस।',
+  'predicted_sentence': 'मोहन अपना दोस्त के उपहार दिहलस।',
+  'confidence': 0.9981,
+  'status': 'CORRECT'
+}
+
+Sentence 32
+{
+  'sentence_number': 32,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'दोसरा लोग के मदद करे के चाहीं।',
+  'ground_truth': 'दोसरा लोग के मदद करे के चाहीं।',
+  'predicted_sentence': 'दोसरा लोग के मदद करे के चाहीं।',
+  'confidence': 0.9576,
+  'status': 'CORRECT'
+}
+
+Sentence 33
+{
+  'sentence_number': 33,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'इसकूल में विज्ञान प्रदर्शनी लागल रहे।',
+  'ground_truth': 'इसकूल में विज्ञान प्रदर्शनी लागल रहे।',
+  'predicted_sentence': 'इसकूल में विज्ञान प्रदर्शनी लागल रहे।',
+  'confidence': 0.8616,
+  'status': 'CORRECT'
+}
+
+Sentence 34
+{
+  'sentence_number': 34,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'लइका लोग मैदान में क्रिकेट खेलत रहे।',
+  'ground_truth': 'लइका लोग मैदान में क्रिकेट खेलत रहे।',
+  'predicted_sentence': 'लइका लोग मैदान में क्रिकेट खेलत रहे।',
+  'confidence': 0.9780,
+  'status': 'CORRECT'
+}
+
+Sentence 35
+{
+  'sentence_number': 35,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'ऊ परीक्षा में पहिला नंबर पवलस।',
+  'ground_truth': 'ऊ परीक्षा में पहिला नंबर पवलस।',
+  'predicted_sentence': 'ऊ परीक्षा में पहिला नंबर पवलस।',
+  'confidence': 0.9291,
+  'status': 'CORRECT'
+}
+
+Sentence 36
+{
+  'sentence_number': 36,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'माई स्वादिष्ट खाना बनवली।',
+  'ground_truth': 'माई स्वादिष्ट खाना बनवली।',
+  'predicted_sentence': 'माई स्वादिष्ट खाना बनवली।',
+  'confidence': 0.7972,
+  'status': 'CORRECT'
+}
+
+Sentence 37
+{
+  'sentence_number': 37,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'यात्री लोग बस के इंतजार करत रहे।',
+  'ground_truth': 'यात्री लोग बस के इंतजार करत रहे।',
+  'predicted_sentence': 'यात्री लोग बस के इंतजार करत रहे।',
+  'confidence': 0.9997,
+  'status': 'CORRECT'
+}
+
+Sentence 38
+{
+  'sentence_number': 38,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'जंगल में कई तरह के जानवर रहेला।',
+  'ground_truth': 'जंगल में कई तरह के जानवर रहेला।',
+  'predicted_sentence': 'जंगल में कई तरह के जानवर रहेला।',
+  'confidence': 0.8859,
+  'status': 'CORRECT'
+}
+
+Sentence 39
+{
+  'sentence_number': 39,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'पानी बचावे के चाहीं।',
+  'ground_truth': 'पानी बचावे के चाहीं।',
+  'predicted_sentence': 'पानी बचावे के चाहीं।',
+  'confidence': 0.9952,
+  'status': 'CORRECT'
+}
+
+Sentence 40
+{
+  'sentence_number': 40,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'सिपाही सीमा पर ड्यूटी करत बाड़ें।',
+  'ground_truth': 'सिपाही सीमा पर ड्यूटी करत बाड़ें।',
+  'predicted_sentence': 'सिपाही सीमा पर ड्यूटी करत बाड़ें।',
+  'confidence': 0.9994,
+  'status': 'CORRECT'
+}
+
+Sentence 41
+{
+  'sentence_number': 41,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'हमरा भोजपुरी बोले में गर्व होला।',
+  'ground_truth': 'हमरा भोजपुरी बोले में गर्व होला।',
+  'predicted_sentence': 'हमरा भोजपुरी बोले में गर्व होला।',
+  'confidence': 0.9530,
+  'status': 'CORRECT'
+}
+
+Sentence 42
+{
+  'sentence_number': 42,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'ऊ रोज अखबार पढ़ेला।',
+  'ground_truth': 'ऊ रोज अखबार पढ़ेला।',
+  'predicted_sentence': 'ऊ रोज अखबार पढ़ेला।',
+  'confidence': 0.9677,
+  'status': 'CORRECT'
+}
+
+Sentence 43
+{
+  'sentence_number': 43,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'सभे मिलके राष्ट्रगान गवलस।',
+  'ground_truth': 'सभे मिलके राष्ट्रगान गवलस।',
+  'predicted_sentence': 'सभे मिलके राष्ट्रगान गवलस।',
+  'confidence': 0.9637,
+  'status': 'CORRECT'
+}
+
+Sentence 44
+{
+  'sentence_number': 44,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'चिड़ियाघर में हाथी आ शेर देखाइल।',
+  'ground_truth': 'चिड़ियाघर में हाथी आ शेर देखाइल।',
+  'predicted_sentence': 'चिड़ियाघर में हाथी आ शेर देखाइल।',
+  'confidence': 0.9702,
+  'status': 'CORRECT'
+}
+
+Sentence 45
+{
+  'sentence_number': 45,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'दादी बच्चा लोग के कहानी सुनावेली।',
+  'ground_truth': 'दादी बच्चा लोग के कहानी सुनावेली।',
+  'predicted_sentence': 'दादी बच्चा लोग के कहानी सुनावेली।',
+  'confidence': 0.9285,
+  'status': 'CORRECT'
+}
+
+Sentence 46
+{
+  'sentence_number': 46,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'आज बजार में बहुत भीड़ रहल।',
+  'ground_truth': 'आज बजार में बहुत भीड़ रहल।',
+  'predicted_sentence': 'आज बजार में बहुत भीड़ रहल।',
+  'confidence': 0.9531,
+  'status': 'CORRECT'
+}
+
+Sentence 47
+{
+  'sentence_number': 47,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'वैज्ञानिक नया खोज में लागल बाड़ें।',
+  'ground_truth': 'वैज्ञानिक नया खोज में लागल बाड़ें।',
+  'predicted_sentence': 'वैज्ञानिक नया खोज में लागल बाड़ें।',
+  'confidence': 0.9946,
+  'status': 'CORRECT'
+}
+
+Sentence 48
+{
+  'sentence_number': 48,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'अपना सेहत के ध्यान रखे के चाहीं।',
+  'ground_truth': 'अपना सेहत के ध्यान रखे के चाहीं।',
+  'predicted_sentence': 'अपना सेहत के ध्यान रखे के चाहीं।',
+  'confidence': 0.9823,
+  'status': 'CORRECT'
+}
+
+Sentence 49
+{
+  'sentence_number': 49,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'मंदिर लगे बरगद के पेड़ बा।',
+  'ground_truth': 'मंदिर लगे बरगद के पेड़ बा।',
+  'predicted_sentence': 'मंदिर लगे बरगद के पेड़ बा।',
+  'confidence': 0.9958,
+  'status': 'CORRECT'
+}
+
+Sentence 50
+{
+  'sentence_number': 50,
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'विद्यार्थी कंप्यूटर सीखे में लागल बाड़ें।',
+  'ground_truth': 'विद्यार्थी कंप्यूटर सीखे में लागल बाड़ें।',
+  'predicted_sentence': 'विद्यार्थी कंप्यूटर सीखे में लागल बाड़ें।',
+  'confidence': 0.9837,
+  'status': 'CORRECT'
+}
+
+Sentence 51
+{
+  'sentence_number': 51,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मुझे आज विधालय जाने में देर हो गई।',
+  'ground_truth': 'मुझे आज विधालय जाने में देर हो गई।',
+  'predicted_sentence': 'मुझे आज विधालय जाने में देर हो गई।',
+  'confidence': 0.8999,
+  'status': 'CORRECT'
+}
+
+Sentence 52
+{
+  'sentence_number': 52,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'राम प्रतिदिन सुबह जल्दी उठकर योगा करता है।',
+  'ground_truth': 'राम प्रतिदिन सुबह जल्दी उठकर योगा करता है।',
+  'predicted_sentence': 'राम प्रतिदिन सुबह जल्दी उठकर योगा करता है।',
+  'confidence': 0.9976,
+  'status': 'CORRECT'
+}
+
+Sentence 53
+{
+  'sentence_number': 53,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'भारत विविध संस्कृतियों और भषाओं वाला देश है।',
+  'ground_truth': 'भारत विविध संस्कृतियों और भषाओं वाला देश है।',
+  'predicted_sentence': 'भारत विविध संस्कृतियों और भषाओं वाला देश है।',
+  'confidence': 0.9985,
+  'status': 'CORRECT'
+}
+
+Sentence 54
+{
+  'sentence_number': 54,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'बच्चो को हमेशा सच बोलना चाहीए।',
+  'ground_truth': 'बच्चो को हमेशा सच बोलना चाहीए।',
+  'predicted_sentence': 'बच्चो को हमेशा सच बोलना चाहीए।',
+  'confidence': 0.9986,
+  'status': 'CORRECT'
+}
+
+Sentence 55
+{
+  'sentence_number': 55,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मौसम आज बहुत सुहावना और ठन्डा है।',
+  'ground_truth': 'मौसम आज बहुत सुहावना और ठन्डा है।',
+  'predicted_sentence': 'मौसम आज बहुत सुहावना और ठन्डा है।',
+  'confidence': 0.9992,
+  'status': 'CORRECT'
+}
+
+Sentence 56
+{
+  'sentence_number': 56,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'किसान खेत में गेहु की फसल काट रहा है।',
+  'ground_truth': 'किसान खेत में गेहु की फसल काट रहा है।',
+  'predicted_sentence': 'किसान खेत में गेहु की फसल काट रहा है।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 57
+{
+  'sentence_number': 57,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'हमे अपने माता-पिता का सम्मान करना चाहिये।',
+  'ground_truth': 'हमे अपने माता-पिता का सम्मान करना चाहिये।',
+  'predicted_sentence': 'हमे अपने माता-पिता का सम्मान करना चाहिये।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 58
+{
+  'sentence_number': 58,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वह पुस्तकलाय में बैठकर इतिहास की पुस्तक पढ़ रही है।',
+  'ground_truth': 'वह पुस्तकलाय में बैठकर इतिहास की पुस्तक पढ़ रही है।',
+  'predicted_sentence': 'वह पुस्तकलाय में बैठकर इतिहास की पुस्तक पढ़ रही है।',
+  'confidence': 0.9163,
+  'status': 'CORRECT'
+}
+
+Sentence 59
+{
+  'sentence_number': 59,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'ट्रेन अपने निर्धारित समय से थोड़ी देर से पहुची।',
+  'ground_truth': 'ट्रेन अपने निर्धारित समय से थोड़ी देर से पहुची।',
+  'predicted_sentence': 'ट्रेन अपने निर्धारित समय से थोड़ी देर से पहुची।',
+  'confidence': 0.9991,
+  'status': 'CORRECT'
+}
+
+Sentence 60
+{
+  'sentence_number': 60,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'डॉक्टर ने मरीज को नियमित दवा लेने की सलह दी।',
+  'ground_truth': 'डॉक्टर ने मरीज को नियमित दवा लेने की सलह दी।',
+  'predicted_sentence': 'डॉक्टर ने मरीज को नियमित दवा लेने की सलह दी।',
+  'confidence': 0.9993,
+  'status': 'CORRECT'
+}
+
+Sentence 61
+{
+  'sentence_number': 61,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'पेड़ो से हमें स्वच्छ हवा और छाया मिलती है।',
+  'ground_truth': 'पेड़ो से हमें स्वच्छ हवा और छाया मिलती है।',
+  'predicted_sentence': 'पेड़ो से हमें स्वच्छ हवा और छाया मिलती है।',
+  'confidence': 0.9991,
+  'status': 'CORRECT'
+}
+
+Sentence 62
+{
+  'sentence_number': 62,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'छात्र परीक्षा की तैय्यारी पूरी मेहनत से कर रहे हैं।',
+  'ground_truth': 'छात्र परीक्षा की तैय्यारी पूरी मेहनत से कर रहे हैं।',
+  'predicted_sentence': 'छात्र परीक्षा की तैय्यारी पूरी मेहनत से कर रहे हैं।',
+  'confidence': 0.9948,
+  'status': 'CORRECT'
+}
+
+Sentence 63
+{
+  'sentence_number': 63,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'नदी का पानी बरसात के कारण बहुत बढ गया है।',
+  'ground_truth': 'नदी का पानी बरसात के कारण बहुत बढ गया है।',
+  'predicted_sentence': 'नदी का पानी बरसात के कारण बहुत बढ गया है।',
+  'confidence': 0.9997,
+  'status': 'CORRECT'
+}
+
+Sentence 64
+{
+  'sentence_number': 64,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'उसने अपने मित्र को जन्मदिन की शुभकामनाए दीं।',
+  'ground_truth': 'उसने अपने मित्र को जन्मदिन की शुभकामनाए दीं।',
+  'predicted_sentence': 'उसने अपने मित्र को जन्मदिन की शुभकामनाए दीं।',
+  'confidence': 0.9980,
+  'status': 'CORRECT'
+}
+
+Sentence 65
+{
+  'sentence_number': 65,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'गाँव के लोग मिलकर वार्षिक उत्सव मना रहे है।',
+  'ground_truth': 'गाँव के लोग मिलकर वार्षिक उत्सव मना रहे है।',
+  'predicted_sentence': 'गाँव के लोग मिलकर वार्षिक उत्सव मना रहे है।',
+  'confidence': 0.9996,
+  'status': 'CORRECT'
+}
+
+Sentence 66
+{
+  'sentence_number': 66,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मुझे गणित के कठिन प्रशन हल करना पसंद है।',
+  'ground_truth': 'मुझे गणित के कठिन प्रशन हल करना पसंद है।',
+  'predicted_sentence': 'मुझे गणित के कठिन प्रशन हल करना पसंद है।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 67
+{
+  'sentence_number': 67,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'पक्षी सुबह होते ही मधुर आवाज में चहचहाने लगते हैं।',
+  'ground_truth': 'पक्षी सुबह होते ही मधुर आवाज में चहचहाने लगते हैं।',
+  'predicted_sentence': 'पक्षी सुबह होते ही मधुर आवाज में चहचहाने लगते हैं।',
+  'confidence': 0.9994,
+  'status': 'CORRECT'
+}
+
+Sentence 68
+{
+  'sentence_number': 68,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'हमे समय का सदुपयोग करना चाहिये।',
+  'ground_truth': 'हमे समय का सदुपयोग करना चाहिये।',
+  'predicted_sentence': 'हमे समय का सदुपयोग करना चाहिये।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 69
+{
+  'sentence_number': 69,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'सुरज पूर्व दिशा से निकलता है।',
+  'ground_truth': 'सुरज पूर्व दिशा से निकलता है।',
+  'predicted_sentence': 'सुरज पूर्व दिशा से निकलता है।',
+  'confidence': 0.9057,
+  'status': 'CORRECT'
+}
+
+Sentence 70
+{
+  'sentence_number': 70,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'शिक्षक ने विद्यार्थीयों को नया पाठ समझाया।',
+  'ground_truth': 'शिक्षक ने विद्यार्थीयों को नया पाठ समझाया।',
+  'predicted_sentence': 'शिक्षक ने विद्यार्थीयों को नया पाठ समझाया।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 71
+{
+  'sentence_number': 71,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मुझे आम खाना बहुत पसन्द है।',
+  'ground_truth': 'मुझे आम खाना बहुत पसन्द है।',
+  'predicted_sentence': 'मुझे आम खाना बहुत पसन्द है।',
+  'confidence': 0.9995,
+  'status': 'CORRECT'
+}
+
+Sentence 72
+{
+  'sentence_number': 72,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वह अपने दादा जी के साथ बजार गया था।',
+  'ground_truth': 'वह अपने दादा जी के साथ बजार गया था।',
+  'predicted_sentence': 'वह अपने दादा जी के साथ बजार गया था।',
+  'confidence': 0.9001,
+  'status': 'CORRECT'
+}
+
+Sentence 73
+{
+  'sentence_number': 73,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'बारिश के कारण सडक पर पानी भर गया।',
+  'ground_truth': 'बारिश के कारण सडक पर पानी भर गया।',
+  'predicted_sentence': 'बारिश के कारण सडक पर पानी भर गया।',
+  'confidence': 0.9996,
+  'status': 'CORRECT'
+}
+
+Sentence 74
+{
+  'sentence_number': 74,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'सभी बच्चों ने मिलकर विधालय को साफ किया।',
+  'ground_truth': 'सभी बच्चों ने मिलकर विधालय को साफ किया।',
+  'predicted_sentence': 'सभी बच्चों ने मिलकर विधालय को साफ किया।',
+  'confidence': 0.9995,
+  'status': 'CORRECT'
+}
+
+Sentence 75
+{
+  'sentence_number': 75,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'हमें पर्यावरन की रक्षा के लिए पेड़ लगाने चाहिए।',
+  'ground_truth': 'हमें पर्यावरन की रक्षा के लिए पेड़ लगाने चाहिए।',
+  'predicted_sentence': 'हमें पर्यावरन की रक्षा के लिए पेड़ लगाने चाहिए।',
+  'confidence': 0.9984,
+  'status': 'CORRECT'
+}
+
+Sentence 76
+{
+  'sentence_number': 76,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मेरी बहन प्रतिदिन संगीत का अभ्यास करती है।',
+  'ground_truth': 'मेरी बहन प्रतिदिन संगीत का अभ्यास करती है।',
+  'predicted_sentence': 'मेरी बहन प्रतिदिन संगीत का अभ्यास करती है।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 77
+{
+  'sentence_number': 77,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'कल रात आकाश में बहुत सारे तारे दिखाई दे रहे थे।',
+  'ground_truth': 'कल रात आकाश में बहुत सारे तारे दिखाई दे रहे थे।',
+  'predicted_sentence': 'कल रात आकाश में बहुत सारे तारे दिखाई दे रहे थे।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 78
+{
+  'sentence_number': 78,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'पुलीस ने चोर को पकड़ लिया।',
+  'ground_truth': 'पुलीस ने चोर को पकड़ लिया।',
+  'predicted_sentence': 'पुलीस ने चोर को पकड़ लिया।',
+  'confidence': 0.9991,
+  'status': 'CORRECT'
+}
+
+Sentence 79
+{
+  'sentence_number': 79,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'पुस्तक पढ़ने से ज्ञान बढता है।',
+  'ground_truth': 'पुस्तक पढ़ने से ज्ञान बढता है।',
+  'predicted_sentence': 'पुस्तक पढ़ने से ज्ञान बढता है।',
+  'confidence': 0.9992,
+  'status': 'CORRECT'
+}
+
+Sentence 80
+{
+  'sentence_number': 80,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वृद्ध व्यक्ति धीरे-धीरे सडक पार कर रहा था।',
+  'ground_truth': 'वृद्ध व्यक्ति धीरे-धीरे सडक पार कर रहा था।',
+  'predicted_sentence': 'वृद्ध व्यक्ति धीरे-धीरे सडक पार कर रहा था।',
+  'confidence': 0.9997,
+  'status': 'CORRECT'
+}
+
+Sentence 81
+{
+  'sentence_number': 81,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मोहन ने अपने मित्र को एक सुंदर उपहार दिया।',
+  'ground_truth': 'मोहन ने अपने मित्र को एक सुंदर उपहार दिया।',
+  'predicted_sentence': 'मोहन ने अपने मित्र को एक सुंदर उपहार दिया।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 82
+{
+  'sentence_number': 82,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'हमें दुसरों की सहायता करने के लिए हमेशा तैयार रहना चाहिए।',
+  'ground_truth': 'हमें दुसरों की सहायता करने के लिए हमेशा तैयार रहना चाहिए।',
+  'predicted_sentence': 'हमें दुसरों की सहायता करने के लिए हमेशा तैयार रहना चाहिए।',
+  'confidence': 0.9993,
+  'status': 'CORRECT'
+}
+
+Sentence 83
+{
+  'sentence_number': 83,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'विधालय में विज्ञान प्रदर्शनी का आयोजन किया गया।',
+  'ground_truth': 'विधालय में विज्ञान प्रदर्शनी का आयोजन किया गया।',
+  'predicted_sentence': 'विधालय में विज्ञान प्रदर्शनी का आयोजन किया गया।',
+  'confidence': 1.0000,
+  'status': 'CORRECT'
+}
+
+Sentence 84
+{
+  'sentence_number': 84,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'बच्चे मैदान में क्रिकेट खेल रहे थे।',
+  'ground_truth': 'बच्चे मैदान में क्रिकेट खेल रहे थे।',
+  'predicted_sentence': 'बच्चे मैदान में क्रिकेट खेल रहे थे।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 85
+{
+  'sentence_number': 85,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वह परीक्षा में प्रथम स्थान प्राप्त करके बहुत खुश था।',
+  'ground_truth': 'वह परीक्षा में प्रथम स्थान प्राप्त करके बहुत खुश था।',
+  'predicted_sentence': 'वह परीक्षा में प्रथम स्थान प्राप्त करके बहुत खुश था।',
+  'confidence': 0.9993,
+  'status': 'CORRECT'
+}
+
+Sentence 86
+{
+  'sentence_number': 86,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'माँ ने स्वादिस्ट भोजन बनाया।',
+  'ground_truth': 'माँ ने स्वादिस्ट भोजन बनाया।',
+  'predicted_sentence': 'माँ ने स्वादिस्ट भोजन बनाया।',
+  'confidence': 0.9958,
+  'status': 'CORRECT'
+}
+
+Sentence 87
+{
+  'sentence_number': 87,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'यात्री बस का इंतजार कर रहे थे।',
+  'ground_truth': 'यात्री बस का इंतजार कर रहे थे।',
+  'predicted_sentence': 'यात्री बस का इंतजार कर रहे थे।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 88
+{
+  'sentence_number': 88,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'जंगल में कई प्रकार के जंगली जानवर रहते हैं।',
+  'ground_truth': 'जंगल में कई प्रकार के जंगली जानवर रहते हैं।',
+  'predicted_sentence': 'जंगल में कई प्रकार के जंगली जानवर रहते हैं।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 89
+{
+  'sentence_number': 89,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'हमें जल की बचत करनी चाहिये।',
+  'ground_truth': 'हमें जल की बचत करनी चाहिये।',
+  'predicted_sentence': 'हमें जल की बचत करनी चाहिये।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 90
+{
+  'sentence_number': 90,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'सैनिक देश की रक्षा के लिए सीमा पर तैनात हैं।',
+  'ground_truth': 'सैनिक देश की रक्षा के लिए सीमा पर तैनात हैं।',
+  'predicted_sentence': 'सैनिक देश की रक्षा के लिए सीमा पर तैनात हैं।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 91
+{
+  'sentence_number': 91,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मुझे हिंदी भाषा पढ़ना और लिखना अच्छा लगता है।',
+  'ground_truth': 'मुझे हिंदी भाषा पढ़ना और लिखना अच्छा लगता है।',
+  'predicted_sentence': 'मुझे हिंदी भाषा पढ़ना और लिखना अच्छा लगता है।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 92
+{
+  'sentence_number': 92,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वह प्रतिदिन समाचार पत्र पढ़ता है।',
+  'ground_truth': 'वह प्रतिदिन समाचार पत्र पढ़ता है।',
+  'predicted_sentence': 'वह प्रतिदिन समाचार पत्र पढ़ता है।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 93
+{
+  'sentence_number': 93,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'सभी विद्यार्थियों ने राष्ट्रिय गान गाया।',
+  'ground_truth': 'सभी विद्यार्थियों ने राष्ट्रिय गान गाया।',
+  'predicted_sentence': 'सभी विद्यार्थियों ने राष्ट्रिय गान गाया।',
+  'confidence': 0.9995,
+  'status': 'CORRECT'
+}
+
+Sentence 94
+{
+  'sentence_number': 94,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'चिड़ियाघर में बच्चों ने हाथी और शेर देखे।',
+  'ground_truth': 'चिड़ियाघर में बच्चों ने हाथी और शेर देखे।',
+  'predicted_sentence': 'चिड़ियाघर में बच्चों ने हाथी और शेर देखे।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 95
+{
+  'sentence_number': 95,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'दादी माँ बच्चों को रोचक कहानियाँ सुनाती हैं।',
+  'ground_truth': 'दादी माँ बच्चों को रोचक कहानियाँ सुनाती हैं।',
+  'predicted_sentence': 'दादी माँ बच्चों को रोचक कहानियाँ सुनाती हैं।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 96
+{
+  'sentence_number': 96,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'आज बजार में बहुत भीड़ थी।',
+  'ground_truth': 'आज बजार में बहुत भीड़ थी।',
+  'predicted_sentence': 'आज बजार में बहुत भीड़ थी।',
+  'confidence': 0.9271,
+  'status': 'CORRECT'
+}
+
+Sentence 97
+{
+  'sentence_number': 97,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वैज्ञानिक नई खोज करने में लगे हुए हैं।',
+  'ground_truth': 'वैज्ञानिक नई खोज करने में लगे हुए हैं।',
+  'predicted_sentence': 'वैज्ञानिक नई खोज करने में लगे हुए हैं।',
+  'confidence': 0.9996,
+  'status': 'CORRECT'
+}
+
+Sentence 98
+{
+  'sentence_number': 98,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'हमें अपने स्वास्थ्य का ध्यान रखना चाहिए।',
+  'ground_truth': 'हमें अपने स्वास्थ्य का ध्यान रखना चाहिए।',
+  'predicted_sentence': 'हमें अपने स्वास्थ्य का ध्यान रखना चाहिए।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 99
+{
+  'sentence_number': 99,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'मंदिर के पास एक बड़ा बरगद का पेड़ है।',
+  'ground_truth': 'मंदिर के पास एक बड़ा बरगद का पेड़ है।',
+  'predicted_sentence': 'मंदिर के पास एक बड़ा बरगद का पेड़ है।',
+  'confidence': 0.9999,
+  'status': 'CORRECT'
+}
+
+Sentence 100
+{
+  'sentence_number': 100,
+  'language_file': 'hindi.txt',
+  'original_sentence': 'विद्यार्थी कंप्यूटर प्रयोगशाला में नया प्रोग्राम सीख रहे हैं।',
+  'ground_truth': 'विद्यार्थी कंप्यूटर प्रयोगशाला में नया प्रोग्राम सीख रहे हैं।',
+  'predicted_sentence': 'विद्यार्थी कंप्यूटर प्रयोगशाला में नया प्रोग्राम सीख रहे हैं।',
+  'confidence': 0.9996,
+  'status': 'CORRECT'
+}
+
+Sentence 101
+{
+  'sentence_number': 101,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾನು ಇಂದು ಶಾಲೆಗೆ ಹೋಗಲು ತಡವಾಯಿತು।',
+  'ground_truth': 'ನಾನು ಇಂದು ಶಾಲೆಗೆ ಹೋಗಲು ತಡವಾಯಿತು।',
+  'predicted_sentence': 'ನಾನು ಇಂದು ಶಾಲೆಗೆ ಹೋಗಲು ತಡವಾಯಿತು।',
+  'confidence': 0.8716,
+  'status': 'CORRECT'
+}
+
+Sentence 102
+{
+  'sentence_number': 102,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ರಾಮ ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಬೇಗ ಎದ್ದು ಯೋಗ ಮಾಡುತ್ತಾನೆ।',
+  'ground_truth': 'ರಾಮ ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಬೇಗ ಎದ್ದು ಯೋಗ ಮಾಡುತ್ತಾನೆ।',
+  'predicted_sentence': 'ರಾಮ ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಬೇಗ ಎದ್ದು ಯೋಗ ಮಾಡುತ್ತಾನೆ।',
+  'confidence': 0.9905,
+  'status': 'CORRECT'
+}
+
+Sentence 103
+{
+  'sentence_number': 103,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಭಾರತವು ವಿವಿಧ ಭಾಷೆಗಳು ಮತ್ತು ಸಂಸ್ಕೃತಿಗಳ ದೇಶವಾಗಿದೆ।',
+  'ground_truth': 'ಭಾರತವು ವಿವಿಧ ಭಾಷೆಗಳು ಮತ್ತು ಸಂಸ್ಕೃತಿಗಳ ದೇಶವಾಗಿದೆ।',
+  'predicted_sentence': 'ಭಾರತವು ವಿವಿಧ ಭಾಷೆಗಳು ಮತ್ತು ಸಂಸ್ಕೃತಿಗಳ ದೇಶವಾಗಿದೆ।',
+  'confidence': 0.8748,
+  'status': 'CORRECT'
+}
+
+Sentence 104
+{
+  'sentence_number': 104,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಕ್ಕಳು ಯಾವಾಗಲೂ ಸತ್ಯವನ್ನು ಹೇಳಬೇಕು।',
+  'ground_truth': 'ಮಕ್ಕಳು ಯಾವಾಗಲೂ ಸತ್ಯವನ್ನು ಹೇಳಬೇಕು।',
+  'predicted_sentence': 'ಮಕ್ಕಳು ಯಾವಾಗಲೂ ಸತ್ಯವನ್ನು ಹೇಳಬೇಕು।',
+  'confidence': 0.8318,
+  'status': 'CORRECT'
+}
+
+Sentence 105
+{
+  'sentence_number': 105,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಇಂದು ಹವಾಮಾನ ಬಹಳ ಚಳಿಯಾಗಿತ್ತು।',
+  'ground_truth': 'ಇಂದು ಹವಾಮಾನ ಬಹಳ ಚಳಿಯಾಗಿತ್ತು।',
+  'predicted_sentence': 'ಇಂದು ಹವಾಮಾನ ಬಹಳ ಚಳಿಯಾಗಿತ್ತು।',
+  'confidence': 0.9088,
+  'status': 'CORRECT'
+}
+
+Sentence 106
+{
+  'sentence_number': 106,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ರೈತನು ಹೊಲದಲ್ಲಿ ಗೋಧಿ ಕತ್ತರಿಸುತ್ತಿದ್ದಾನೆ।',
+  'ground_truth': 'ರೈತನು ಹೊಲದಲ್ಲಿ ಗೋಧಿ ಕತ್ತರಿಸುತ್ತಿದ್ದಾನೆ।',
+  'predicted_sentence': 'ರೈತನು ಹೊಲದಲ್ಲಿ ಗೋಧಿ ಕತ್ತರಿಸುತ್ತಿದ್ದಾನೆ।',
+  'confidence': 0.9072,
+  'status': 'CORRECT'
+}
+
+Sentence 107
+{
+  'sentence_number': 107,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾವು ನಮ್ಮ ತಂದೆತಾಯಿಯನ್ನು ಗೌರವಿಸಬೇಕು।',
+  'ground_truth': 'ನಾವು ನಮ್ಮ ತಂದೆತಾಯಿಯನ್ನು ಗೌರವಿಸಬೇಕು।',
+  'predicted_sentence': 'ನಾವು ನಮ್ಮ ತಂದೆತಾಯಿಯನ್ನು ಗೌರವಿಸಬೇಕು।',
+  'confidence': 0.9499,
+  'status': 'CORRECT'
+}
+
+Sentence 108
+{
+  'sentence_number': 108,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವಳು ಪುಸ್ತಕಾಲಯದಲ್ಲಿ ಕುಳಿತು ಪುಸ್ತಕ ಓದುತ್ತಿದ್ದಾಳೆ।',
+  'ground_truth': 'ಅವಳು ಪುಸ್ತಕಾಲಯದಲ್ಲಿ ಕುಳಿತು ಪುಸ್ತಕ ಓದುತ್ತಿದ್ದಾಳೆ।',
+  'predicted_sentence': 'ಅವಳು ಪುಸ್ತಕಾಲಯದಲ್ಲಿ ಕುಳಿತು ಪುಸ್ತಕ ಓದುತ್ತಿದ್ದಾಳೆ।',
+  'confidence': 0.9489,
+  'status': 'CORRECT'
+}
+
+Sentence 109
+{
+  'sentence_number': 109,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ರೈಲು ಇಂದು ತಡವಾಗಿ ಬಂದಿತು।',
+  'ground_truth': 'ರೈಲು ಇಂದು ತಡವಾಗಿ ಬಂದಿತು।',
+  'predicted_sentence': 'ರೈಲು ಇಂದು ತಡವಾಗಿ ಬಂದಿತು।',
+  'confidence': 0.7990,
+  'status': 'CORRECT'
+}
+
+Sentence 110
+{
+  'sentence_number': 110,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವೈದ್ಯರು ರೋಗಿಗೆ ಔಷಧಿಯನ್ನು ಸಮಯಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳಲು ಹೇಳಿದರು।',
+  'ground_truth': 'ವೈದ್ಯರು ರೋಗಿಗೆ ಔಷಧಿಯನ್ನು ಸಮಯಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳಲು ಹೇಳಿದರು।',
+  'predicted_sentence': 'ವೈದ್ಯರು ರೋಗಿಗೆ ಔಷಧಿಯನ್ನು ಸಮಯಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳಲು ಹೇಳಿದರು।',
+  'confidence': 0.8708,
+  'status': 'CORRECT'
+}
+
+Sentence 111
+{
+  'sentence_number': 111,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮರಗಳು ನಮಗೆ ಶುದ್ಧ ಗಾಳಿ ನೀಡುತ್ತವೆ।',
+  'ground_truth': 'ಮರಗಳು ನಮಗೆ ಶುದ್ಧ ಗಾಳಿ ನೀಡುತ್ತವೆ।',
+  'predicted_sentence': 'ಮರಗಳು ನಮಗೆ ಶುದ್ಧ ಗಾಳಿ ನೀಡುತ್ತವೆ।',
+  'confidence': 0.9961,
+  'status': 'CORRECT'
+}
+
+Sentence 112
+{
+  'sentence_number': 112,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಗೆ ಶ್ರಮಿಸುತ್ತಿದ್ದಾರೆ।',
+  'ground_truth': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಗೆ ಶ್ರಮಿಸುತ್ತಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಪರೀಕ್ಷೆಗೆ ಶ್ರಮಿಸುತ್ತಿದ್ದಾರೆ।',
+  'confidence': 0.9529,
+  'status': 'CORRECT'
+}
+
+Sentence 113
+{
+  'sentence_number': 113,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಳೆಯಿಂದ ನದಿಯ ನೀರು ಹೆಚ್ಚಾಗಿದೆ।',
+  'ground_truth': 'ಮಳೆಯಿಂದ ನದಿಯ ನೀರು ಹೆಚ್ಚಾಗಿದೆ।',
+  'predicted_sentence': 'ಮಳೆಯಿಂದ ನದಿಯ ನೀರು ಹೆಚ್ಚಾಗಿದೆ।',
+  'confidence': 0.8568,
+  'status': 'CORRECT'
+}
+
+Sentence 114
+{
+  'sentence_number': 114,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವನು ತನ್ನ ಸ್ನೇಹಿತನಿಗೆ ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯ ತಿಳಿಸಿದನು।',
+  'ground_truth': 'ಅವನು ತನ್ನ ಸ್ನೇಹಿತನಿಗೆ ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯ ತಿಳಿಸಿದನು।',
+  'predicted_sentence': 'ಅವನು ತನ್ನ ಸ್ನೇಹಿತನಿಗೆ ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯ ತಿಳಿಸಿದನು।',
+  'confidence': 0.9229,
+  'status': 'CORRECT'
+}
+
+Sentence 115
+{
+  'sentence_number': 115,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಗ್ರಾಮಸ್ಥರು ಒಟ್ಟಾಗಿ ಹಬ್ಬ ಆಚರಿಸುತ್ತಿದ್ದಾರೆ।',
+  'ground_truth': 'ಗ್ರಾಮಸ್ಥರು ಒಟ್ಟಾಗಿ ಹಬ್ಬ ಆಚರಿಸುತ್ತಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ಗ್ರಾಮಸ್ಥರು ಒಟ್ಟಾಗಿ ಹಬ್ಬ ಆಚರಿಸುತ್ತಿದ್ದಾರೆ।',
+  'confidence': 0.9318,
+  'status': 'CORRECT'
+}
+
+Sentence 116
+{
+  'sentence_number': 116,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನನಗೆ ಗಣಿತದ ಪ್ರಶ್ನೆಗಳನ್ನು ಬಗೆಹರಿಸಲು ಇಷ್ಟ।',
+  'ground_truth': 'ನನಗೆ ಗಣಿತದ ಪ್ರಶ್ನೆಗಳನ್ನು ಬಗೆಹರಿಸಲು ಇಷ್ಟ।',
+  'predicted_sentence': 'ನನಗೆ ಗಣಿತದ ಪ್ರಶ್ನೆಗಳನ್ನು ಬಗೆಹರಿಸಲು ಇಷ್ಟ।',
+  'confidence': 0.8563,
+  'status': 'CORRECT'
+}
+
+Sentence 117
+{
+  'sentence_number': 117,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪಕ್ಷಿಗಳು ಬೆಳಿಗ್ಗೆ ಸಿಹಿಯಾಗಿ ಕೂಗುತ್ತವೆ।',
+  'ground_truth': 'ಪಕ್ಷಿಗಳು ಬೆಳಿಗ್ಗೆ ಸಿಹಿಯಾಗಿ ಕೂಗುತ್ತವೆ।',
+  'predicted_sentence': 'ಪಕ್ಷಿಗಳು ಬೆಳಿಗ್ಗೆ ಸಿಹಿಯಾಗಿ ಕೂಗುತ್ತವೆ।',
+  'confidence': 0.9667,
+  'status': 'CORRECT'
+}
+
+Sentence 118
+{
+  'sentence_number': 118,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಬಳಸಬೇಕು।',
+  'ground_truth': 'ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಬಳಸಬೇಕು।',
+  'predicted_sentence': 'ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಬಳಸಬೇಕು।',
+  'confidence': 0.9957,
+  'status': 'CORRECT'
+}
+
+Sentence 119
+{
+  'sentence_number': 119,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಸೂರ್ಯನು ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ।',
+  'ground_truth': 'ಸೂರ್ಯನು ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ।',
+  'predicted_sentence': 'ಸೂರ್ಯನು ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ।',
+  'confidence': 0.8763,
+  'status': 'CORRECT'
+}
+
+Sentence 120
+{
+  'sentence_number': 120,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಹೊಸ ಪಾಠ ಹೇಳಿದರು।',
+  'ground_truth': 'ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಹೊಸ ಪಾಠ ಹೇಳಿದರು।',
+  'predicted_sentence': 'ಶಿಕ್ಷಕರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಹೊಸ ಪಾಠ ಹೇಳಿದರು।',
+  'confidence': 0.9514,
+  'status': 'CORRECT'
+}
+
+Sentence 121
+{
+  'sentence_number': 121,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನನಗೆ ಮಾವಿನ ಹಣ್ಣು ತುಂಬ ಇಷ್ಟ।',
+  'ground_truth': 'ನನಗೆ ಮಾವಿನ ಹಣ್ಣು ತುಂಬ ಇಷ್ಟ।',
+  'predicted_sentence': 'ನನಗೆ ಮಾವಿನ ಹಣ್ಣು ತುಂಬ ಇಷ್ಟ।',
+  'confidence': 0.8397,
+  'status': 'CORRECT'
+}
+
+Sentence 122
+{
+  'sentence_number': 122,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವನು ತನ್ನ ತಾತನ ಜೊತೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು।',
+  'ground_truth': 'ಅವನು ತನ್ನ ತಾತನ ಜೊತೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು।',
+  'predicted_sentence': 'ಅವನು ತನ್ನ ತಾತನ ಜೊತೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು।',
+  'confidence': 0.8911,
+  'status': 'CORRECT'
+}
+
+Sentence 123
+{
+  'sentence_number': 123,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಳೆಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು।',
+  'ground_truth': 'ಮಳೆಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು।',
+  'predicted_sentence': 'ಮಳೆಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು।',
+  'confidence': 0.9779,
+  'status': 'CORRECT'
+}
+
+Sentence 124
+{
+  'sentence_number': 124,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಕ್ಕಳು ಶಾಲೆಯನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿದರು।',
+  'ground_truth': 'ಮಕ್ಕಳು ಶಾಲೆಯನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿದರು।',
+  'predicted_sentence': 'ಮಕ್ಕಳು ಶಾಲೆಯನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಿದರು।',
+  'confidence': 0.9906,
+  'status': 'CORRECT'
+}
+
+Sentence 125
+{
+  'sentence_number': 125,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪರಿಸರ ರಕ್ಷಿಸಲು ಮರಗಳನ್ನು ನೆಡಬೇಕು।',
+  'ground_truth': 'ಪರಿಸರ ರಕ್ಷಿಸಲು ಮರಗಳನ್ನು ನೆಡಬೇಕು।',
+  'predicted_sentence': 'ಪರಿಸರ ರಕ್ಷಿಸಲು ಮರಗಳನ್ನು ನೆಡಬೇಕು।',
+  'confidence': 0.9381,
+  'status': 'CORRECT'
+}
+
+Sentence 126
+{
+  'sentence_number': 126,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನನ್ನ ಸಹೋದರಿ ಪ್ರತಿದಿನ ಸಂಗೀತ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಾಳೆ।',
+  'ground_truth': 'ನನ್ನ ಸಹೋದರಿ ಪ್ರತಿದಿನ ಸಂಗೀತ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಾಳೆ।',
+  'predicted_sentence': 'ನನ್ನ ಸಹೋದರಿ ಪ್ರತಿದಿನ ಸಂಗೀತ ಅಭ್ಯಾಸ ಮಾಡುತ್ತಾಳೆ।',
+  'confidence': 0.8751,
+  'status': 'CORRECT'
+}
+
+Sentence 127
+{
+  'sentence_number': 127,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಿನ್ನೆ ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ಅನೇಕ ನಕ್ಷತ್ರಗಳು ಕಾಣುತ್ತಿದ್ದವು।',
+  'ground_truth': 'ನಿನ್ನೆ ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ಅನೇಕ ನಕ್ಷತ್ರಗಳು ಕಾಣುತ್ತಿದ್ದವು।',
+  'predicted_sentence': 'ನಿನ್ನೆ ರಾತ್ರಿ ಆಕಾಶದಲ್ಲಿ ಅನೇಕ ನಕ್ಷತ್ರಗಳು ಕಾಣುತ್ತಿದ್ದವು।',
+  'confidence': 0.9566,
+  'status': 'CORRECT'
+}
+
+Sentence 128
+{
+  'sentence_number': 128,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪೋಲಿಸರು ಕಳ್ಳನನ್ನು ಬಂಧಿಸಿದರು।',
+  'ground_truth': 'ಪೋಲಿಸರು ಕಳ್ಳನನ್ನು ಬಂಧಿಸಿದರು।',
+  'predicted_sentence': 'ಪೋಲಿಸರು ಕಳ್ಳನನ್ನು ಬಂಧಿಸಿದರು।',
+  'confidence': 0.8890,
+  'status': 'CORRECT'
+}
+
+Sentence 129
+{
+  'sentence_number': 129,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪುಸ್ತಕ ಓದುವುದರಿಂದ ಜ್ಞಾನ ಹೆಚ್ಚುತ್ತದೆ।',
+  'ground_truth': 'ಪುಸ್ತಕ ಓದುವುದರಿಂದ ಜ್ಞಾನ ಹೆಚ್ಚುತ್ತದೆ।',
+  'predicted_sentence': 'ಪುಸ್ತಕ ಓದುವುದರಿಂದ ಜ್ಞಾನ ಹೆಚ್ಚುತ್ತದೆ।',
+  'confidence': 0.8529,
+  'status': 'CORRECT'
+}
+
+Sentence 130
+{
+  'sentence_number': 130,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವೃದ್ಧನು ನಿಧಾನವಾಗಿ ರಸ್ತೆ ದಾಟುತ್ತಿದ್ದನು।',
+  'ground_truth': 'ವೃದ್ಧನು ನಿಧಾನವಾಗಿ ರಸ್ತೆ ದಾಟುತ್ತಿದ್ದನು।',
+  'predicted_sentence': 'ವೃದ್ಧನು ನಿಧಾನವಾಗಿ ರಸ್ತೆ ದಾಟುತ್ತಿದ್ದನು।',
+  'confidence': 0.9765,
+  'status': 'CORRECT'
+}
+
+Sentence 131
+{
+  'sentence_number': 131,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮೋಹನ್ ತನ್ನ ಸ್ನೇಹಿತನಿಗೆ ಉಡುಗೊರೆ ಕೊಟ್ಟನು।',
+  'ground_truth': 'ಮೋಹನ್ ತನ್ನ ಸ್ನೇಹಿತನಿಗೆ ಉಡುಗೊರೆ ಕೊಟ್ಟನು।',
+  'predicted_sentence': 'ಮೋಹನ್ ತನ್ನ ಸ್ನೇಹಿತನಿಗೆ ಉಡುಗೊರೆ ಕೊಟ್ಟನು।',
+  'confidence': 0.9062,
+  'status': 'CORRECT'
+}
+
+Sentence 132
+{
+  'sentence_number': 132,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾವು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಬೇಕು।',
+  'ground_truth': 'ನಾವು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಬೇಕು।',
+  'predicted_sentence': 'ನಾವು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಬೇಕು।',
+  'confidence': 0.9599,
+  'status': 'CORRECT'
+}
+
+Sentence 133
+{
+  'sentence_number': 133,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ನಡೆಯಿತು।',
+  'ground_truth': 'ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ನಡೆಯಿತು।',
+  'predicted_sentence': 'ಶಾಲೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಪ್ರದರ್ಶನ ನಡೆಯಿತು।',
+  'confidence': 0.7996,
+  'status': 'CORRECT'
+}
+
+Sentence 134
+{
+  'sentence_number': 134,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಕ್ಕಳು ಮೈದಾನದಲ್ಲಿ ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದರು।',
+  'ground_truth': 'ಮಕ್ಕಳು ಮೈದಾನದಲ್ಲಿ ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದರು।',
+  'predicted_sentence': 'ಮಕ್ಕಳು ಮೈದಾನದಲ್ಲಿ ಕ್ರಿಕೆಟ್ ಆಡುತ್ತಿದ್ದರು।',
+  'confidence': 0.8358,
+  'status': 'CORRECT'
+}
+
+Sentence 135
+{
+  'sentence_number': 135,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವನು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದನು।',
+  'ground_truth': 'ಅವನು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದನು।',
+  'predicted_sentence': 'ಅವನು ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರಥಮ ಸ್ಥಾನ ಪಡೆದನು।',
+  'confidence': 0.8485,
+  'status': 'CORRECT'
+}
+
+Sentence 136
+{
+  'sentence_number': 136,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ತಾಯಿ ರುಚಿಯಾದ ಊಟ ಮಾಡಿದರು।',
+  'ground_truth': 'ತಾಯಿ ರುಚಿಯಾದ ಊಟ ಮಾಡಿದರು।',
+  'predicted_sentence': 'ತಾಯಿ ರುಚಿಯಾದ ಊಟ ಮಾಡಿದರು।',
+  'confidence': 0.8269,
+  'status': 'CORRECT'
+}
+
+Sentence 137
+{
+  'sentence_number': 137,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪ್ರಯಾಣಿಕರು ಬಸ್ಸಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದರು।',
+  'ground_truth': 'ಪ್ರಯಾಣಿಕರು ಬಸ್ಸಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದರು।',
+  'predicted_sentence': 'ಪ್ರಯಾಣಿಕರು ಬಸ್ಸಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದರು।',
+  'confidence': 0.8771,
+  'status': 'CORRECT'
+}
+
+Sentence 138
+{
+  'sentence_number': 138,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಕಾಡಿನಲ್ಲಿ ಅನೇಕ ಕಾಡುಪ್ರಾಣಿಗಳು ಇವೆ।',
+  'ground_truth': 'ಕಾಡಿನಲ್ಲಿ ಅನೇಕ ಕಾಡುಪ್ರಾಣಿಗಳು ಇವೆ।',
+  'predicted_sentence': 'ಕಾಡಿನಲ್ಲಿ ಅನೇಕ ಕಾಡುಪ್ರಾಣಿಗಳು ಇವೆ।',
+  'confidence': 0.8723,
+  'status': 'CORRECT'
+}
+
+Sentence 139
+{
+  'sentence_number': 139,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನೀರನ್ನು ಉಳಿಸಬೇಕು।',
+  'ground_truth': 'ನೀರನ್ನು ಉಳಿಸಬೇಕು।',
+  'predicted_sentence': 'ನೀರನ್ನು ಉಳಿಸಬೇಕು।',
+  'confidence': 0.9973,
+  'status': 'CORRECT'
+}
+
+Sentence 140
+{
+  'sentence_number': 140,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಸೈನಿಕರು ಗಡಿಯಲ್ಲಿ ಕರ್ತವ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ।',
+  'ground_truth': 'ಸೈನಿಕರು ಗಡಿಯಲ್ಲಿ ಕರ್ತವ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ಸೈನಿಕರು ಗಡಿಯಲ್ಲಿ ಕರ್ತವ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ।',
+  'confidence': 0.8616,
+  'status': 'CORRECT'
+}
+
+Sentence 141
+{
+  'sentence_number': 141,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನನಗೆ ಕನ್ನಡ ಭಾಷೆ ಬಹಳ ಇಷ್ಟ।',
+  'ground_truth': 'ನನಗೆ ಕನ್ನಡ ಭಾಷೆ ಬಹಳ ಇಷ್ಟ।',
+  'predicted_sentence': 'ನನಗೆ ಕನ್ನಡ ಭಾಷೆ ಬಹಳ ಇಷ್ಟ।',
+  'confidence': 0.9121,
+  'status': 'CORRECT'
+}
+
+Sentence 142
+{
+  'sentence_number': 142,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವನು ಪ್ರತಿದಿನ ಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ।',
+  'ground_truth': 'ಅವನು ಪ್ರತಿದಿನ ಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ।',
+  'predicted_sentence': 'ಅವನು ಪ್ರತಿದಿನ ಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ।',
+  'confidence': 0.8693,
+  'status': 'CORRECT'
+}
+
+Sentence 143
+{
+  'sentence_number': 143,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡಿದರು।',
+  'ground_truth': 'ವಿದ್ಯಾರ್ಥಿಗಳು ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡಿದರು।',
+  'predicted_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡಿದರು।',
+  'confidence': 0.7862,
+  'status': 'CORRECT'
+}
+
+Sentence 144
+{
+  'sentence_number': 144,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಕ್ಕಳು ಮೃಗಾಲಯದಲ್ಲಿ ಆನೆ ಮತ್ತು ಸಿಂಹ ನೋಡಿದರು।',
+  'ground_truth': 'ಮಕ್ಕಳು ಮೃಗಾಲಯದಲ್ಲಿ ಆನೆ ಮತ್ತು ಸಿಂಹ ನೋಡಿದರು।',
+  'predicted_sentence': 'ಮಕ್ಕಳು ಮೃಗಾಲಯದಲ್ಲಿ ಆನೆ ಮತ್ತು ಸಿಂಹ ನೋಡಿದರು।',
+  'confidence': 0.9122,
+  'status': 'CORRECT'
+}
+
+Sentence 145
+{
+  'sentence_number': 145,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅಜ್ಜಿ ಮಕ್ಕಳಿಗೆ ಕಥೆ ಹೇಳುತ್ತಾಳೆ।',
+  'ground_truth': 'ಅಜ್ಜಿ ಮಕ್ಕಳಿಗೆ ಕಥೆ ಹೇಳುತ್ತಾಳೆ।',
+  'predicted_sentence': 'ಅಜ್ಜಿ ಮಕ್ಕಳಿಗೆ ಕಥೆ ಹೇಳುತ್ತಾಳೆ।',
+  'confidence': 0.8256,
+  'status': 'CORRECT'
+}
+
+Sentence 146
+{
+  'sentence_number': 146,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಇಂದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತುಂಬಾ ಜನರಿದ್ದರು।',
+  'ground_truth': 'ಇಂದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತುಂಬಾ ಜನರಿದ್ದರು।',
+  'predicted_sentence': 'ಇಂದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತುಂಬಾ ಜನರಿದ್ದರು।',
+  'confidence': 0.8560,
+  'status': 'CORRECT'
+}
+
+Sentence 147
+{
+  'sentence_number': 147,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಆವಿಷ್ಕಾರಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ।',
+  'ground_truth': 'ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಆವಿಷ್ಕಾರಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಆವಿಷ್ಕಾರಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ।',
+  'confidence': 0.8874,
+  'status': 'CORRECT'
+}
+
+Sentence 148
+{
+  'sentence_number': 148,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾವು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಬೇಕು।',
+  'ground_truth': 'ನಾವು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಬೇಕು।',
+  'predicted_sentence': 'ನಾವು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಬೇಕು।',
+  'confidence': 0.8812,
+  'status': 'CORRECT'
+}
+
+Sentence 149
+{
+  'sentence_number': 149,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ದೇವಾಲಯದ ಬಳಿ ದೊಡ್ಡ ಆಲದ ಮರ ಇದೆ।',
+  'ground_truth': 'ದೇವಾಲಯದ ಬಳಿ ದೊಡ್ಡ ಆಲದ ಮರ ಇದೆ।',
+  'predicted_sentence': 'ದೇವಾಲಯದ ಬಳಿ ದೊಡ್ಡ ಆಲದ ಮರ ಇದೆ।',
+  'confidence': 0.8570,
+  'status': 'CORRECT'
+}
+
+Sentence 150
+{
+  'sentence_number': 150,
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಕಂಪ್ಯೂಟರ್ ಕಲಿಯುತ್ತಿದ್ದಾರೆ।',
+  'ground_truth': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಕಂಪ್ಯೂಟರ್ ಕಲಿಯುತ್ತಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಕಂಪ್ಯೂಟರ್ ಕಲಿಯುತ್ತಿದ್ದಾರೆ।',
+  'confidence': 0.9946,
+  'status': 'CORRECT'
+}
+
+Sentence 151
+{
+  'sentence_number': 151,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'हम आइ विद्यालय जाए मे देरी कए देलिऐ।',
+  'ground_truth': 'हम आइ विद्यालय जाए मे देरी कए देलिऐ।',
+  'predicted_sentence': 'हम आइ विद्यालय जाए मे देरी कए देलिऐ।',
+  'confidence': 0.9740,
+  'status': 'CORRECT'
+}
+
+Sentence 152
+{
+  'sentence_number': 152,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'राम रोज भोरे जल्दी उठि योग करैत अछि।',
+  'ground_truth': 'राम रोज भोरे जल्दी उठि योग करैत अछि।',
+  'predicted_sentence': 'राम रोज भोरे जल्दी उठि योग करैत अछि।',
+  'confidence': 0.9986,
+  'status': 'CORRECT'
+}
+
+Sentence 153
+{
+  'sentence_number': 153,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'भारत अनेक भाषा आ संस्कृति वाला देश अछि।',
+  'ground_truth': 'भारत अनेक भाषा आ संस्कृति वाला देश अछि।',
+  'predicted_sentence': 'भारत अनेक भाषा आ संस्कृति वाला देश अछि।',
+  'confidence': 0.9998,
+  'status': 'CORRECT'
+}
+
+Sentence 154
+{
+  'sentence_number': 154,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'बच्चा सभकेँ सदिखन सत्य बोलबाक चाही।',
+  'ground_truth': 'बच्चा सभकेँ सदिखन सत्य बोलबाक चाही।',
+  'predicted_sentence': 'बच्चा सभकेँ सदिखन सत्य बोलबाक चाही।',
+  'confidence': 0.8931,
+  'status': 'CORRECT'
+}
+
+Sentence 155
+{
+  'sentence_number': 155,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'आइ मौसम बहुत सुहावन अछि।',
+  'ground_truth': 'आइ मौसम बहुत सुहावन अछि।',
+  'predicted_sentence': 'आइ मौसम बहुत सुहावन अछि।',
+  'confidence': 0.9834,
+  'status': 'CORRECT'
+}
+
+Sentence 156
+{
+  'sentence_number': 156,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'किसान खेत मे गहूम काटि रहल अछि।',
+  'ground_truth': 'किसान खेत मे गहूम काटि रहल अछि।',
+  'predicted_sentence': 'किसान खेत मे गहूम काटि रहल अछि।',
+  'confidence': 0.9983,
+  'status': 'CORRECT'
+}
+
+Sentence 157
+{
+  'sentence_number': 157,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'हमरा सभकेँ माता-पिताक सम्मान करबाक चाही।',
+  'ground_truth': 'हमरा सभकेँ माता-पिताक सम्मान करबाक चाही।',
+  'predicted_sentence': 'हमरा सभकेँ माता-पिताक सम्मान करबाक चाही।',
+  'confidence': 0.9898,
+  'status': 'CORRECT'
+}
+
+Sentence 158
+{
+  'sentence_number': 158,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'ओ पुस्तकालय मे बैस पुस्तक पढ़ि रहल छथि।',
+  'ground_truth': 'ओ पुस्तकालय मे बैस पुस्तक पढ़ि रहल छथि।',
+  'predicted_sentence': 'ओ पुस्तकालय मे बैस पुस्तक पढ़ि रहल छथि।',
+  'confidence': 0.9166,
+  'status': 'CORRECT'
+}
+
+Sentence 159
+{
+  'sentence_number': 159,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'रेलगाड़ी आइ देरी सँ पहुँचलक।',
+  'ground_truth': 'रेलगाड़ी आइ देरी सँ पहुँचलक।',
+  'predicted_sentence': 'रेलगाड़ी आइ देरी सँ पहुँचलक।',
+  'confidence': 0.9361,
+  'status': 'CORRECT'
+}
+
+Sentence 160
+{
+  'sentence_number': 160,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'डॉक्टर रोगीकेँ समय पर दवा लेबाक सलाह देलथि।',
+  'ground_truth': 'डॉक्टर रोगीकेँ समय पर दवा लेबाक सलाह देलथि।',
+  'predicted_sentence': 'डॉक्टर रोगीकेँ समय पर दवा लेबाक सलाह देलथि।',
+  'confidence': 0.9941,
+  'status': 'CORRECT'
+}
+
+Sentence 161
+{
+  'sentence_number': 161,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'गाछ सभ सँ स्वच्छ हवा भेटैत अछि।',
+  'ground_truth': 'गाछ सभ सँ स्वच्छ हवा भेटैत अछि।',
+  'predicted_sentence': 'गाछ सभ सँ स्वच्छ हवा भेटैत अछि।',
+  'confidence': 0.9986,
+  'status': 'CORRECT'
+}
+
+Sentence 162
+{
+  'sentence_number': 162,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'छात्र सभ परीक्षा लेल मेहनत कए रहल छथि।',
+  'ground_truth': 'छात्र सभ परीक्षा लेल मेहनत कए रहल छथि।',
+  'predicted_sentence': 'छात्र सभ परीक्षा लेल मेहनत कए रहल छथि।',
+  'confidence': 0.9165,
+  'status': 'CORRECT'
+}
+
+Sentence 163
+{
+  'sentence_number': 163,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'वर्षा सँ नदीक जल बढ़ि गेल अछि।',
+  'ground_truth': 'वर्षा सँ नदीक जल बढ़ि गेल अछि।',
+  'predicted_sentence': 'वर्षा सँ नदीक जल बढ़ि गेल अछि।',
+  'confidence': 0.9994,
+  'status': 'CORRECT'
+}
+
+Sentence 164
+{
+  'sentence_number': 164,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'ओ अपन मित्रकेँ जन्मदिनक शुभकामना देलथि।',
+  'ground_truth': 'ओ अपन मित्रकेँ जन्मदिनक शुभकामना देलथि।',
+  'predicted_sentence': 'ओ अपन मित्रकेँ जन्मदिनक शुभकामना देलथि।',
+  'confidence': 0.9941,
+  'status': 'CORRECT'
+}
+
+Sentence 165
+{
+  'sentence_number': 165,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'गामक लोक सभ मिलि उत्सव मना रहल छथि।',
+  'ground_truth': 'गामक लोक सभ मिलि उत्सव मना रहल छथि।',
+  'predicted_sentence': 'गामक लोक सभ मिलि उत्सव मना रहल छथि।',
+  'confidence': 0.8724,
+  'status': 'CORRECT'
+}
+
+Sentence 166
+{
+  'sentence_number': 166,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'हमरा गणितक प्रश्न हल करब नीक लगैत अछि।',
+  'ground_truth': 'हमरा गणितक प्रश्न हल करब नीक लगैत अछि।',
+  'predicted_sentence': 'हमरा गणितक प्रश्न हल करब नीक लगैत अछि।',
+  'confidence': 0.9850,
+  'status': 'CORRECT'
+}
+
+Sentence 167
+{
+  'sentence_number': 167,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'चिरैया भोरे मधुर आवाज करैत अछि।',
+  'ground_truth': 'चिरैया भोरे मधुर आवाज करैत अछि।',
+  'predicted_sentence': 'चिरैया भोरे मधुर आवाज करैत अछि।',
+  'confidence': 0.9996,
+  'status': 'CORRECT'
+}
+
+Sentence 168
+{
+  'sentence_number': 168,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'समयक सदुपयोग करबाक चाही।',
+  'ground_truth': 'समयक सदुपयोग करबाक चाही।',
+  'predicted_sentence': 'समयक सदुपयोग करबाक चाही।',
+  'confidence': 0.9982,
+  'status': 'CORRECT'
+}
+
+Sentence 169
+{
+  'sentence_number': 169,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'सूर्य पूर्व दिशा सँ निकलैत अछि।',
+  'ground_truth': 'सूर्य पूर्व दिशा सँ निकलैत अछि।',
+  'predicted_sentence': 'सूर्य पूर्व दिशा सँ निकलैत अछि।',
+  'confidence': 0.9996,
+  'status': 'CORRECT'
+}
+
+Sentence 170
+{
+  'sentence_number': 170,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'शिक्षक छात्र सभकेँ नव पाठ पढ़ौलनि।',
+  'ground_truth': 'शिक्षक छात्र सभकेँ नव पाठ पढ़ौलनि।',
+  'predicted_sentence': 'शिक्षक छात्र सभकेँ नव पाठ पढ़ौलनि।',
+  'confidence': 0.9819,
+  'status': 'CORRECT'
+}
+
+Sentence 171
+{
+  'sentence_number': 171,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'हमरा आम खाए बहुत पसंद अछि।',
+  'ground_truth': 'हमरा आम खाए बहुत पसंद अछि।',
+  'predicted_sentence': 'हमरा आम खाए बहुत पसंद अछि।',
+  'confidence': 0.9434,
+  'status': 'CORRECT'
+}
+
+Sentence 172
+{
+  'sentence_number': 172,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'ओ अपन दादाजी संग बाजार गेल छलाह।',
+  'ground_truth': 'ओ अपन दादाजी संग बाजार गेल छलाह।',
+  'predicted_sentence': 'ओ अपन दादाजी संग बाजार गेल छलाह।',
+  'confidence': 0.9965,
+  'status': 'CORRECT'
+}
+
+Sentence 173
+{
+  'sentence_number': 173,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'वर्षा सँ सड़क पर पानी भरि गेल।',
+  'ground_truth': 'वर्षा सँ सड़क पर पानी भरि गेल।',
+  'predicted_sentence': 'वर्षा सँ सड़क पर पानी भरि गेल।',
+  'confidence': 0.9968,
+  'status': 'CORRECT'
+}
+
+Sentence 174
+{
+  'sentence_number': 174,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'बच्चा सभ विद्यालय साफ कएलक।',
+  'ground_truth': 'बच्चा सभ विद्यालय साफ कएलक।',
+  'predicted_sentence': 'बच्चा सभ विद्यालय साफ कएलक।',
+  'confidence': 0.9588,
+  'status': 'CORRECT'
+}
+
+Sentence 175
+{
+  'sentence_number': 175,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'पर्यावरण बचाबए लेल गाछ लगाबए चाही।',
+  'ground_truth': 'पर्यावरण बचाबए लेल गाछ लगाबए चाही।',
+  'predicted_sentence': 'पर्यावरण बचाबए लेल गाछ लगाबए चाही।',
+  'confidence': 0.9953,
+  'status': 'CORRECT'
+}
+
+Sentence 176
+{
+  'sentence_number': 176,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'हमर बहिन रोज संगीतक अभ्यास करैत अछि।',
+  'ground_truth': 'हमर बहिन रोज संगीतक अभ्यास करैत अछि।',
+  'predicted_sentence': 'हमर बहिन रोज संगीतक अभ्यास करैत अछि।',
+  'confidence': 0.9995,
+  'status': 'CORRECT'
+}
+
+Sentence 177
+{
+  'sentence_number': 177,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'काल्हि राति आकाश मे बहुत तारा छल।',
+  'ground_truth': 'काल्हि राति आकाश मे बहुत तारा छल।',
+  'predicted_sentence': 'काल्हि राति आकाश मे बहुत तारा छल।',
+  'confidence': 0.9540,
+  'status': 'CORRECT'
+}
+
+Sentence 178
+{
+  'sentence_number': 178,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'पुलिस चोरकेँ पकड़ि लेलक।',
+  'ground_truth': 'पुलिस चोरकेँ पकड़ि लेलक।',
+  'predicted_sentence': 'पुलिस चोरकेँ पकड़ि लेलक।',
+  'confidence': 0.9783,
+  'status': 'CORRECT'
+}
+
+Sentence 179
+{
+  'sentence_number': 179,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'पुस्तक पढ़ला सँ ज्ञान बढ़ैत अछि।',
+  'ground_truth': 'पुस्तक पढ़ला सँ ज्ञान बढ़ैत अछि।',
+  'predicted_sentence': 'पुस्तक पढ़ला सँ ज्ञान बढ़ैत अछि।',
+  'confidence': 0.9840,
+  'status': 'CORRECT'
+}
+
+Sentence 180
+{
+  'sentence_number': 180,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'वृद्ध व्यक्ति धीरे-धीरे सड़क पार कए रहल छलाह।',
+  'ground_truth': 'वृद्ध व्यक्ति धीरे-धीरे सड़क पार कए रहल छलाह।',
+  'predicted_sentence': 'वृद्ध व्यक्ति धीरे-धीरे सड़क पार कए रहल छलाह।',
+  'confidence': 0.9958,
+  'status': 'CORRECT'
+}
+
+Sentence 181
+{
+  'sentence_number': 181,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'मोहन अपन मित्रकेँ उपहार देलक।',
+  'ground_truth': 'मोहन अपन मित्रकेँ उपहार देलक।',
+  'predicted_sentence': 'मोहन अपन मित्रकेँ उपहार देलक।',
+  'confidence': 0.9951,
+  'status': 'CORRECT'
+}
+
+Sentence 182
+{
+  'sentence_number': 182,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'दोसरा लोकक सहायता करबाक चाही।',
+  'ground_truth': 'दोसरा लोकक सहायता करबाक चाही।',
+  'predicted_sentence': 'दोसरा लोकक सहायता करबाक चाही।',
+  'confidence': 0.9838,
+  'status': 'CORRECT'
+}
+
+Sentence 183
+{
+  'sentence_number': 183,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'विद्यालय मे विज्ञान प्रदर्शनी लागल छल।',
+  'ground_truth': 'विद्यालय मे विज्ञान प्रदर्शनी लागल छल।',
+  'predicted_sentence': 'विद्यालय मे विज्ञान प्रदर्शनी लागल छल।',
+  'confidence': 0.9995,
+  'status': 'CORRECT'
+}
+
+Sentence 184
+{
+  'sentence_number': 184,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'बच्चा सभ मैदान मे क्रिकेट खेलि रहल छल।',
+  'ground_truth': 'बच्चा सभ मैदान मे क्रिकेट खेलि रहल छल।',
+  'predicted_sentence': 'बच्चा सभ मैदान मे क्रिकेट खेलि रहल छल।',
+  'confidence': 0.9994,
+  'status': 'CORRECT'
+}
+
+Sentence 185
+{
+  'sentence_number': 185,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'ओ परीक्षा मे प्रथम स्थान प्राप्त कएलक।',
+  'ground_truth': 'ओ परीक्षा मे प्रथम स्थान प्राप्त कएलक।',
+  'predicted_sentence': 'ओ परीक्षा मे प्रथम स्थान प्राप्त कएलक।',
+  'confidence': 0.9959,
+  'status': 'CORRECT'
+}
+
+Sentence 186
+{
+  'sentence_number': 186,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'माय स्वादिष्ट भोजन बनेलनि।',
+  'ground_truth': 'माय स्वादिष्ट भोजन बनेलनि।',
+  'predicted_sentence': 'माय स्वादिष्ट भोजन बनेलनि।',
+  'confidence': 0.7782,
+  'status': 'CORRECT'
+}
+
+Sentence 187
+{
+  'sentence_number': 187,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'यात्री सभ बसक प्रतीक्षा कए रहल छलाह।',
+  'ground_truth': 'यात्री सभ बसक प्रतीक्षा कए रहल छलाह।',
+  'predicted_sentence': 'यात्री सभ बसक प्रतीक्षा कए रहल छलाह।',
+  'confidence': 0.9957,
+  'status': 'CORRECT'
+}
+
+Sentence 188
+{
+  'sentence_number': 188,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'जंगल मे अनेक प्रकारक जनावर रहैत अछि।',
+  'ground_truth': 'जंगल मे अनेक प्रकारक जनावर रहैत अछि।',
+  'predicted_sentence': 'जंगल मे अनेक प्रकारक जनावर रहैत अछि।',
+  'confidence': 0.9994,
+  'status': 'CORRECT'
+}
+
+Sentence 189
+{
+  'sentence_number': 189,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'पानिक बचत करबाक चाही।',
+  'ground_truth': 'पानिक बचत करबाक चाही।',
+  'predicted_sentence': 'पानिक बचत करबाक चाही।',
+  'confidence': 0.9968,
+  'status': 'CORRECT'
+}
+
+Sentence 190
+{
+  'sentence_number': 190,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'सैनिक सीमा पर तैनात छथि।',
+  'ground_truth': 'सैनिक सीमा पर तैनात छथि।',
+  'predicted_sentence': 'सैनिक सीमा पर तैनात छथि।',
+  'confidence': 0.8548,
+  'status': 'CORRECT'
+}
+
+Sentence 191
+{
+  'sentence_number': 191,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'हमरा मैथिली भाषा बहुत प्रिय अछि।',
+  'ground_truth': 'हमरा मैथिली भाषा बहुत प्रिय अछि।',
+  'predicted_sentence': 'हमरा मैथिली भाषा बहुत प्रिय अछि।',
+  'confidence': 0.9988,
+  'status': 'CORRECT'
+}
+
+Sentence 192
+{
+  'sentence_number': 192,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'ओ प्रतिदिन समाचार पत्र पढ़ैत छथि।',
+  'ground_truth': 'ओ प्रतिदिन समाचार पत्र पढ़ैत छथि।',
+  'predicted_sentence': 'ओ प्रतिदिन समाचार पत्र पढ़ैत छथि।',
+  'confidence': 0.8867,
+  'status': 'CORRECT'
+}
+
+Sentence 193
+{
+  'sentence_number': 193,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'छात्र सभ राष्ट्रगान गाबि रहल छल।',
+  'ground_truth': 'छात्र सभ राष्ट्रगान गाबि रहल छल।',
+  'predicted_sentence': 'छात्र सभ राष्ट्रगान गाबि रहल छल।',
+  'confidence': 0.9862,
+  'status': 'CORRECT'
+}
+
+Sentence 194
+{
+  'sentence_number': 194,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'चिड़ियाघर मे बच्चा सभ हाथी देखने छल।',
+  'ground_truth': 'चिड़ियाघर मे बच्चा सभ हाथी देखने छल।',
+  'predicted_sentence': 'चिड़ियाघर मे बच्चा सभ हाथी देखने छल।',
+  'confidence': 0.8905,
+  'status': 'CORRECT'
+}
+
+Sentence 195
+{
+  'sentence_number': 195,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'दादी बच्चा सभकेँ कथा सुनबैत छथि।',
+  'ground_truth': 'दादी बच्चा सभकेँ कथा सुनबैत छथि।',
+  'predicted_sentence': 'दादी बच्चा सभकेँ कथा सुनबैत छथि।',
+  'confidence': 0.7527,
+  'status': 'CORRECT'
+}
+
+Sentence 196
+{
+  'sentence_number': 196,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'आइ बाजार मे बहुत भीड़ छल।',
+  'ground_truth': 'आइ बाजार मे बहुत भीड़ छल।',
+  'predicted_sentence': 'आइ बाजार मे बहुत भीड़ छल।',
+  'confidence': 0.9692,
+  'status': 'CORRECT'
+}
+
+Sentence 197
+{
+  'sentence_number': 197,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'वैज्ञानिक नव खोज मे लागल छथि।',
+  'ground_truth': 'वैज्ञानिक नव खोज मे लागल छथि।',
+  'predicted_sentence': 'वैज्ञानिक नव खोज मे लागल छथि।',
+  'confidence': 0.8812,
+  'status': 'CORRECT'
+}
+
+Sentence 198
+{
+  'sentence_number': 198,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'स्वास्थ्यक ध्यान राखबाक चाही।',
+  'ground_truth': 'स्वास्थ्यक ध्यान राखबाक चाही।',
+  'predicted_sentence': 'स्वास्थ्यक ध्यान राखबाक चाही।',
+  'confidence': 0.9850,
+  'status': 'CORRECT'
+}
+
+Sentence 199
+{
+  'sentence_number': 199,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'मंदिर लग एकटा बरगदक गाछ अछि।',
+  'ground_truth': 'मंदिर लग एकटा बरगदक गाछ अछि।',
+  'predicted_sentence': 'मंदिर लग एकटा बरगदक गाछ अछि।',
+  'confidence': 0.9943,
+  'status': 'CORRECT'
+}
+
+Sentence 200
+{
+  'sentence_number': 200,
+  'language_file': 'maithili.txt',
+  'original_sentence': 'विद्यार्थी कंप्यूटर सीखि रहल छथि।',
+  'ground_truth': 'विद्यार्थी कंप्यूटर सीखि रहल छथि।',
+  'predicted_sentence': 'विद्यार्थी कंप्यूटर सीखि रहल छथि।',
+  'confidence': 0.8865,
+  'status': 'CORRECT'
+}
+
+Sentence 201
+{
+  'sentence_number': 201,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నేను ఈరోజు పాఠశాలకు వెళ్లడానికి ఆలస్యమైంది।',
+  'ground_truth': 'నేను ఈరోజు పాఠశాలకు వెళ్లడానికి ఆలస్యమైంది।',
+  'predicted_sentence': 'నేను ఈరోజు పాఠశాలకు వెళ్లడానికి ఆలస్యమైంది।',
+  'confidence': 0.8016,
+  'status': 'CORRECT'
+}
+
+Sentence 202
+{
+  'sentence_number': 202,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'రాము ప్రతిరోజూ ఉదయం త్వరగా లేచి యోగ చేస్తాడు।',
+  'ground_truth': 'రాము ప్రతిరోజూ ఉదయం త్వరగా లేచి యోగ చేస్తాడు।',
+  'predicted_sentence': 'రాము ప్రతిరోజూ ఉదయం త్వరగా లేచి యోగ చేస్తాడు।',
+  'confidence': 0.9247,
+  'status': 'CORRECT'
+}
+
+Sentence 203
+{
+  'sentence_number': 203,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'భారత్ అనేక భాషలు మరియు సంస్కృతుల దేశం।',
+  'ground_truth': 'భారత్ అనేక భాషలు మరియు సంస్కృతుల దేశం।',
+  'predicted_sentence': 'భారత్ అనేక భాషలు మరియు సంస్కృతుల దేశం।',
+  'confidence': 0.8807,
+  'status': 'CORRECT'
+}
+
+Sentence 204
+{
+  'sentence_number': 204,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పిల్లలు ఎప్పుడూ నిజం చెప్పాలి।',
+  'ground_truth': 'పిల్లలు ఎప్పుడూ నిజం చెప్పాలి।',
+  'predicted_sentence': 'పిల్లలు ఎప్పుడూ నిజం చెప్పాలి।',
+  'confidence': 0.8022,
+  'status': 'CORRECT'
+}
+
+Sentence 205
+{
+  'sentence_number': 205,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'ఈరోజు వాతావరణం చాలా చల్లగా ఉంది।',
+  'ground_truth': 'ఈరోజు వాతావరణం చాలా చల్లగా ఉంది।',
+  'predicted_sentence': 'ఈరోజు వాతావరణం చాలా చల్లగా ఉంది।',
+  'confidence': 0.9856,
+  'status': 'CORRECT'
+}
+
+Sentence 206
+{
+  'sentence_number': 206,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'రైతు పొలంలో గోధుమ కోస్తున్నాడు।',
+  'ground_truth': 'రైతు పొలంలో గోధుమ కోస్తున్నాడు।',
+  'predicted_sentence': 'రైతు పొలంలో గోధుమ కోస్తున్నాడు।',
+  'confidence': 0.8680,
+  'status': 'CORRECT'
+}
+
+Sentence 207
+{
+  'sentence_number': 207,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'మనం మన తల్లిదండ్రులను గౌరవించాలి।',
+  'ground_truth': 'మనం మన తల్లిదండ్రులను గౌరవించాలి।',
+  'predicted_sentence': 'మనం మన తల్లిదండ్రులను గౌరవించాలి।',
+  'confidence': 0.9670,
+  'status': 'CORRECT'
+}
+
+Sentence 208
+{
+  'sentence_number': 208,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'ఆమె గ్రంథాలయంలో కూర్చొని పుస్తకం చదువుతోంది।',
+  'ground_truth': 'ఆమె గ్రంథాలయంలో కూర్చొని పుస్తకం చదువుతోంది।',
+  'predicted_sentence': 'ఆమె గ్రంథాలయంలో కూర్చొని పుస్తకం చదువుతోంది।',
+  'confidence': 0.9223,
+  'status': 'CORRECT'
+}
+
+Sentence 209
+{
+  'sentence_number': 209,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'రైలు ఈరోజు ఆలస్యంగా వచ్చింది।',
+  'ground_truth': 'రైలు ఈరోజు ఆలస్యంగా వచ్చింది।',
+  'predicted_sentence': 'రైలు ఈరోజు ఆలస్యంగా వచ్చింది।',
+  'confidence': 0.9206,
+  'status': 'CORRECT'
+}
+
+Sentence 210
+{
+  'sentence_number': 210,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'డాక్టర్ రోగికి సమయానికి మందు తినమని చెప్పారు।',
+  'ground_truth': 'డాక్టర్ రోగికి సమయానికి మందు తినమని చెప్పారు।',
+  'predicted_sentence': 'డాక్టర్ రోగికి సమయానికి మందు తినమని చెప్పారు।',
+  'confidence': 0.8989,
+  'status': 'CORRECT'
+}
+
+Sentence 211
+{
+  'sentence_number': 211,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'చెట్లు మనకు స్వచ్ఛమైన గాలి ఇస్తాయి।',
+  'ground_truth': 'చెట్లు మనకు స్వచ్ఛమైన గాలి ఇస్తాయి।',
+  'predicted_sentence': 'చెట్లు మనకు స్వచ్ఛమైన గాలి ఇస్తాయి।',
+  'confidence': 0.8573,
+  'status': 'CORRECT'
+}
+
+Sentence 212
+{
+  'sentence_number': 212,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'విద్యార్థులు పరీక్షలకు కష్టపడుతున్నారు।',
+  'ground_truth': 'విద్యార్థులు పరీక్షలకు కష్టపడుతున్నారు।',
+  'predicted_sentence': 'విద్యార్థులు పరీక్షలకు కష్టపడుతున్నారు।',
+  'confidence': 0.9919,
+  'status': 'CORRECT'
+}
+
+Sentence 213
+{
+  'sentence_number': 213,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'వర్షం వల్ల నదిలో నీరు పెరిగింది।',
+  'ground_truth': 'వర్షం వల్ల నదిలో నీరు పెరిగింది।',
+  'predicted_sentence': 'వర్షం వల్ల నదిలో నీరు పెరిగింది।',
+  'confidence': 0.8331,
+  'status': 'CORRECT'
+}
+
+Sentence 214
+{
+  'sentence_number': 214,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అతను తన స్నేహితుడికి పుట్టినరోజు శుభాకాంక్షలు తెలిపాడు।',
+  'ground_truth': 'అతను తన స్నేహితుడికి పుట్టినరోజు శుభాకాంక్షలు తెలిపాడు।',
+  'predicted_sentence': 'అతను తన స్నేహితుడికి పుట్టినరోజు శుభాకాంక్షలు తెలిపాడు।',
+  'confidence': 0.9947,
+  'status': 'CORRECT'
+}
+
+Sentence 215
+{
+  'sentence_number': 215,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'గ్రామస్తులు కలిసి పండుగ జరుపుకుంటున్నారు।',
+  'ground_truth': 'గ్రామస్తులు కలిసి పండుగ జరుపుకుంటున్నారు।',
+  'predicted_sentence': 'గ్రామస్తులు కలిసి పండుగ జరుపుకుంటున్నారు।',
+  'confidence': 0.6957,
+  'status': 'WRONG'
+}
+
+Sentence 216
+{
+  'sentence_number': 216,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నాకు గణిత సమస్యలు పరిష్కరించడం ఇష్టం।',
+  'ground_truth': 'నాకు గణిత సమస్యలు పరిష్కరించడం ఇష్టం।',
+  'predicted_sentence': 'నాకు గణిత సమస్యలు పరిష్కరించడం ఇష్టం।',
+  'confidence': 0.7818,
+  'status': 'CORRECT'
+}
+
+Sentence 217
+{
+  'sentence_number': 217,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పక్షులు ఉదయం మధురంగా కూస్తాయి।',
+  'ground_truth': 'పక్షులు ఉదయం మధురంగా కూస్తాయి।',
+  'predicted_sentence': 'పక్షులు ఉదయం మధురంగా కూస్తాయి।',
+  'confidence': 0.8630,
+  'status': 'CORRECT'
+}
+
+Sentence 218
+{
+  'sentence_number': 218,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'సమయాన్ని సరిగ్గా ఉపయోగించాలి।',
+  'ground_truth': 'సమయాన్ని సరిగ్గా ఉపయోగించాలి।',
+  'predicted_sentence': 'సమయాన్ని సరిగ్గా ఉపయోగించాలి।',
+  'confidence': 0.9567,
+  'status': 'CORRECT'
+}
+
+Sentence 219
+{
+  'sentence_number': 219,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'సూర్యుడు తూర్పు దిశలో ఉదయిస్తాడు।',
+  'ground_truth': 'సూర్యుడు తూర్పు దిశలో ఉదయిస్తాడు।',
+  'predicted_sentence': 'సూర్యుడు తూర్పు దిశలో ఉదయిస్తాడు।',
+  'confidence': 0.9914,
+  'status': 'CORRECT'
+}
+
+Sentence 220
+{
+  'sentence_number': 220,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'ground_truth': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'predicted_sentence': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'confidence': 0.7156,
+  'status': 'WRONG'
+}
+
+Sentence 221
+{
+  'sentence_number': 221,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నాకు మామిడి పండు చాలా ఇష్టం।',
+  'ground_truth': 'నాకు మామిడి పండు చాలా ఇష్టం।',
+  'predicted_sentence': 'నాకు మామిడి పండు చాలా ఇష్టం।',
+  'confidence': 0.8333,
+  'status': 'CORRECT'
+}
+
+Sentence 222
+{
+  'sentence_number': 222,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అతను తన తాతతో కలిసి మార్కెట్‌కు వెళ్లాడు।',
+  'ground_truth': 'అతను తన తాతతో కలిసి మార్కెట్‌కు వెళ్లాడు।',
+  'predicted_sentence': 'అతను తన తాతతో కలిసి మార్కెట్‌కు వెళ్లాడు।',
+  'confidence': 0.9164,
+  'status': 'CORRECT'
+}
+
+Sentence 223
+{
+  'sentence_number': 223,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'వర్షం కారణంగా రోడ్డుపై నీరు నిలిచింది।',
+  'ground_truth': 'వర్షం కారణంగా రోడ్డుపై నీరు నిలిచింది।',
+  'predicted_sentence': 'వర్షం కారణంగా రోడ్డుపై నీరు నిలిచింది।',
+  'confidence': 0.9615,
+  'status': 'CORRECT'
+}
+
+Sentence 224
+{
+  'sentence_number': 224,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పిల్లలు పాఠశాలను శుభ్రం చేశారు।',
+  'ground_truth': 'పిల్లలు పాఠశాలను శుభ్రం చేశారు।',
+  'predicted_sentence': 'పిల్లలు పాఠశాలను శుభ్రం చేశారు।',
+  'confidence': 0.8096,
+  'status': 'CORRECT'
+}
+
+Sentence 225
+{
+  'sentence_number': 225,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పర్యావరణాన్ని కాపాడటానికి చెట్లు నాటాలి।',
+  'ground_truth': 'పర్యావరణాన్ని కాపాడటానికి చెట్లు నాటాలి।',
+  'predicted_sentence': 'పర్యావరణాన్ని కాపాడటానికి చెట్లు నాటాలి।',
+  'confidence': 0.8880,
+  'status': 'CORRECT'
+}
+
+Sentence 226
+{
+  'sentence_number': 226,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నా అక్క ప్రతిరోజూ సంగీత సాధన చేస్తుంది।',
+  'ground_truth': 'నా అక్క ప్రతిరోజూ సంగీత సాధన చేస్తుంది।',
+  'predicted_sentence': 'నా అక్క ప్రతిరోజూ సంగీత సాధన చేస్తుంది।',
+  'confidence': 0.8611,
+  'status': 'CORRECT'
+}
+
+Sentence 227
+{
+  'sentence_number': 227,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నిన్న రాత్రి ఆకాశంలో చాలా నక్షత్రాలు కనిపించాయి।',
+  'ground_truth': 'నిన్న రాత్రి ఆకాశంలో చాలా నక్షత్రాలు కనిపించాయి।',
+  'predicted_sentence': 'నిన్న రాత్రి ఆకాశంలో చాలా నక్షత్రాలు కనిపించాయి।',
+  'confidence': 0.9292,
+  'status': 'CORRECT'
+}
+
+Sentence 228
+{
+  'sentence_number': 228,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పోలీసులు దొంగను పట్టుకున్నారు।',
+  'ground_truth': 'పోలీసులు దొంగను పట్టుకున్నారు।',
+  'predicted_sentence': 'పోలీసులు దొంగను పట్టుకున్నారు।',
+  'confidence': 0.8499,
+  'status': 'CORRECT'
+}
+
+Sentence 229
+{
+  'sentence_number': 229,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పుస్తకాలు చదవడం వల్ల జ్ఞానం పెరుగుతుంది।',
+  'ground_truth': 'పుస్తకాలు చదవడం వల్ల జ్ఞానం పెరుగుతుంది।',
+  'predicted_sentence': 'పుస్తకాలు చదవడం వల్ల జ్ఞానం పెరుగుతుంది।',
+  'confidence': 0.8332,
+  'status': 'CORRECT'
+}
+
+Sentence 230
+{
+  'sentence_number': 230,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'వృద్ధుడు నెమ్మదిగా రోడ్డును దాటుతున్నాడు।',
+  'ground_truth': 'వృద్ధుడు నెమ్మదిగా రోడ్డును దాటుతున్నాడు।',
+  'predicted_sentence': 'వృద్ధుడు నెమ్మదిగా రోడ్డును దాటుతున్నాడు।',
+  'confidence': 0.9910,
+  'status': 'CORRECT'
+}
+
+Sentence 231
+{
+  'sentence_number': 231,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'మోహన్ తన స్నేహితుడికి బహుమతి ఇచ్చాడు।',
+  'ground_truth': 'మోహన్ తన స్నేహితుడికి బహుమతి ఇచ్చాడు।',
+  'predicted_sentence': 'మోహన్ తన స్నేహితుడికి బహుమతి ఇచ్చాడు।',
+  'confidence': 0.8986,
+  'status': 'CORRECT'
+}
+
+Sentence 232
+{
+  'sentence_number': 232,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'మనం ఇతరులకు సహాయం చేయాలి।',
+  'ground_truth': 'మనం ఇతరులకు సహాయం చేయాలి।',
+  'predicted_sentence': 'మనం ఇతరులకు సహాయం చేయాలి।',
+  'confidence': 0.9890,
+  'status': 'CORRECT'
+}
+
+Sentence 233
+{
+  'sentence_number': 233,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పాఠశాలలో విజ్ఞాన ప్రదర్శన జరిగింది।',
+  'ground_truth': 'పాఠశాలలో విజ్ఞాన ప్రదర్శన జరిగింది।',
+  'predicted_sentence': 'పాఠశాలలో విజ్ఞాన ప్రదర్శన జరిగింది।',
+  'confidence': 0.7961,
+  'status': 'CORRECT'
+}
+
+Sentence 234
+{
+  'sentence_number': 234,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పిల్లలు మైదానంలో క్రికెట్ ఆడుతున్నారు।',
+  'ground_truth': 'పిల్లలు మైదానంలో క్రికెట్ ఆడుతున్నారు।',
+  'predicted_sentence': 'పిల్లలు మైదానంలో క్రికెట్ ఆడుతున్నారు।',
+  'confidence': 0.8964,
+  'status': 'CORRECT'
+}
+
+Sentence 235
+{
+  'sentence_number': 235,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అతను పరీక్షలో మొదటి స్థానం సాధించాడు।',
+  'ground_truth': 'అతను పరీక్షలో మొదటి స్థానం సాధించాడు।',
+  'predicted_sentence': 'అతను పరీక్షలో మొదటి స్థానం సాధించాడు।',
+  'confidence': 0.8310,
+  'status': 'CORRECT'
+}
+
+Sentence 236
+{
+  'sentence_number': 236,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అమ్మ రుచికరమైన భోజనం చేసింది।',
+  'ground_truth': 'అమ్మ రుచికరమైన భోజనం చేసింది।',
+  'predicted_sentence': 'అమ్మ రుచికరమైన భోజనం చేసింది।',
+  'confidence': 0.8359,
+  'status': 'CORRECT'
+}
+
+Sentence 237
+{
+  'sentence_number': 237,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'ప్రయాణికులు బస్సు కోసం ఎదురుచూస్తున్నారు।',
+  'ground_truth': 'ప్రయాణికులు బస్సు కోసం ఎదురుచూస్తున్నారు।',
+  'predicted_sentence': 'ప్రయాణికులు బస్సు కోసం ఎదురుచూస్తున్నారు।',
+  'confidence': 0.8905,
+  'status': 'CORRECT'
+}
+
+Sentence 238
+{
+  'sentence_number': 238,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అడవిలో అనేక అడవి జంతువులు ఉన్నాయి।',
+  'ground_truth': 'అడవిలో అనేక అడవి జంతువులు ఉన్నాయి।',
+  'predicted_sentence': 'అడవిలో అనేక అడవి జంతువులు ఉన్నాయి।',
+  'confidence': 0.8329,
+  'status': 'CORRECT'
+}
+
+Sentence 239
+{
+  'sentence_number': 239,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నీటిని ఆదా చేయాలి।',
+  'ground_truth': 'నీటిని ఆదా చేయాలి।',
+  'predicted_sentence': 'నీటిని ఆదా చేయాలి।',
+  'confidence': 0.9680,
+  'status': 'CORRECT'
+}
+
+Sentence 240
+{
+  'sentence_number': 240,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'సైనికులు సరిహద్దులో విధులు నిర్వహిస్తున్నారు।',
+  'ground_truth': 'సైనికులు సరిహద్దులో విధులు నిర్వహిస్తున్నారు।',
+  'predicted_sentence': 'సైనికులు సరిహద్దులో విధులు నిర్వహిస్తున్నారు।',
+  'confidence': 0.9320,
+  'status': 'CORRECT'
+}
+
+Sentence 241
+{
+  'sentence_number': 241,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నాకు తెలుగు భాష చాలా ఇష్టం।',
+  'ground_truth': 'నాకు తెలుగు భాష చాలా ఇష్టం।',
+  'predicted_sentence': 'నాకు తెలుగు భాష చాలా ఇష్టం।',
+  'confidence': 0.9668,
+  'status': 'CORRECT'
+}
+
+Sentence 242
+{
+  'sentence_number': 242,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అతను ప్రతిరోజూ వార్తాపత్రిక చదువుతాడు।',
+  'ground_truth': 'అతను ప్రతిరోజూ వార్తాపత్రిక చదువుతాడు।',
+  'predicted_sentence': 'అతను ప్రతిరోజూ వార్తాపత్రిక చదువుతాడు।',
+  'confidence': 0.8378,
+  'status': 'CORRECT'
+}
+
+Sentence 243
+{
+  'sentence_number': 243,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'విద్యార్థులు జాతీయ గీతం పాడారు।',
+  'ground_truth': 'విద్యార్థులు జాతీయ గీతం పాడారు।',
+  'predicted_sentence': 'విద్యార్థులు జాతీయ గీతం పాడారు।',
+  'confidence': 0.9002,
+  'status': 'CORRECT'
+}
+
+Sentence 244
+{
+  'sentence_number': 244,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పిల్లలు జంతుప్రదర్శనశాలలో ఏనుగు మరియు సింహం చూశారు।',
+  'ground_truth': 'పిల్లలు జంతుప్రదర్శనశాలలో ఏనుగు మరియు సింహం చూశారు।',
+  'predicted_sentence': 'పిల్లలు జంతుప్రదర్శనశాలలో ఏనుగు మరియు సింహం చూశారు।',
+  'confidence': 0.8652,
+  'status': 'CORRECT'
+}
+
+Sentence 245
+{
+  'sentence_number': 245,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అమ్మమ్మ పిల్లలకు కథలు చెబుతుంది।',
+  'ground_truth': 'అమ్మమ్మ పిల్లలకు కథలు చెబుతుంది।',
+  'predicted_sentence': 'అమ్మమ్మ పిల్లలకు కథలు చెబుతుంది।',
+  'confidence': 0.9894,
+  'status': 'CORRECT'
+}
+
+Sentence 246
+{
+  'sentence_number': 246,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'ఈరోజు మార్కెట్‌లో చాలా జనసందోహం ఉంది।',
+  'ground_truth': 'ఈరోజు మార్కెట్‌లో చాలా జనసందోహం ఉంది।',
+  'predicted_sentence': 'ఈరోజు మార్కెట్‌లో చాలా జనసందోహం ఉంది।',
+  'confidence': 0.8977,
+  'status': 'CORRECT'
+}
+
+Sentence 247
+{
+  'sentence_number': 247,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'శాస్త్రవేత్తలు కొత్త ఆవిష్కరణలపై పనిచేస్తున్నారు।',
+  'ground_truth': 'శాస్త్రవేత్తలు కొత్త ఆవిష్కరణలపై పనిచేస్తున్నారు।',
+  'predicted_sentence': 'శాస్త్రవేత్తలు కొత్త ఆవిష్కరణలపై పనిచేస్తున్నారు।',
+  'confidence': 0.9135,
+  'status': 'CORRECT'
+}
+
+Sentence 248
+{
+  'sentence_number': 248,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'మన ఆరోగ్యాన్ని జాగ్రత్తగా చూసుకోవాలి।',
+  'ground_truth': 'మన ఆరోగ్యాన్ని జాగ్రత్తగా చూసుకోవాలి।',
+  'predicted_sentence': 'మన ఆరోగ్యాన్ని జాగ్రత్తగా చూసుకోవాలి।',
+  'confidence': 0.9920,
+  'status': 'CORRECT'
+}
+
+Sentence 249
+{
+  'sentence_number': 249,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'దేవాలయం దగ్గర పెద్ద మర్రిచెట్టు ఉంది।',
+  'ground_truth': 'దేవాలయం దగ్గర పెద్ద మర్రిచెట్టు ఉంది।',
+  'predicted_sentence': 'దేవాలయం దగ్గర పెద్ద మర్రిచెట్టు ఉంది।',
+  'confidence': 0.8561,
+  'status': 'CORRECT'
+}
+
+Sentence 250
+{
+  'sentence_number': 250,
+  'language_file': 'telugu.txt',
+  'original_sentence': 'విద్యార్థులు కంప్యూటర్ నేర్చుకుంటున్నారు।',
+  'ground_truth': 'విద్యార్థులు కంప్యూటర్ నేర్చుకుంటున్నారు।',
+  'predicted_sentence': 'విద్యార్థులు కంప్యూటర్ నేర్చుకుంటున్నారు।',
+  'confidence': 0.7355,
+  'status': 'WRONG'
+}
+

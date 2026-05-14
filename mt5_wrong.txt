@@ -1,0 +1,500 @@
+Sentence 24
+{
+  'language_file': 'bhojpuri.txt',
+  'original_sentence': 'सभे बच्चा मिलके इसकूल साफ कइलस।',
+  'ground_truth': 'सभे बच्चा मिलके इसकूल साफ कइलस।',
+  'predicted_sentence': 'सभे बच्चा मिलके इसकूल साफ कइलस।',
+  'confidence': 0.6468,
+  'status': 'WRONG'
+}
+
+Sentence 52
+{
+  'language_file': 'hindi.txt',
+  'original_sentence': 'राम प्रतिदिन सुबह जल्दी उठकर योगा करता है।',
+  'ground_truth': 'राम प्रतिदिन सुबह जल्दी उठकर योगा करता है।',
+  'predicted_sentence': 'राम प्रतिदिन सुबह जल्दी उठकर योगा करता है।',
+  'confidence': 0.5899,
+  'status': 'WRONG'
+}
+
+Sentence 53
+{
+  'language_file': 'hindi.txt',
+  'original_sentence': 'भारत विविध संस्कृतियों और भषाओं वाला देश है।',
+  'ground_truth': 'भारत विविध संस्कृतियों और भषाओं वाला देश है।',
+  'predicted_sentence': 'भारत विविध संस्कृतियों और भषाओं वाला देश है।',
+  'confidence': 0.5802,
+  'status': 'WRONG'
+}
+
+Sentence 58
+{
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वह पुस्तकलाय में बैठकर इतिहास की पुस्तक पढ़ रही है।',
+  'ground_truth': 'वह पुस्तकलाय में बैठकर इतिहास की पुस्तक पढ़ रही है।',
+  'predicted_sentence': 'वह पुस्तकलाय में बैठकर इतिहास की पुस्तक पढ़ रही है।',
+  'confidence': 0.6327,
+  'status': 'WRONG'
+}
+
+Sentence 62
+{
+  'language_file': 'hindi.txt',
+  'original_sentence': 'छात्र परीक्षा की तैय्यारी पूरी मेहनत से कर रहे हैं।',
+  'ground_truth': 'छात्र परीक्षा की तैय्यारी पूरी मेहनत से कर रहे हैं।',
+  'predicted_sentence': 'छात्र परीक्षा की तैय्यारी पूरी मेहनत से कर रहे हैं।',
+  'confidence': 0.4832,
+  'status': 'WRONG'
+}
+
+Sentence 67
+{
+  'language_file': 'hindi.txt',
+  'original_sentence': 'पक्षी सुबह होते ही मधुर आवाज में चहचहाने लगते हैं।',
+  'ground_truth': 'पक्षी सुबह होते ही मधुर आवाज में चहचहाने लगते हैं।',
+  'predicted_sentence': 'पक्षी सुबह होते ही मधुर आवाज में चहचहाने लगते हैं।',
+  'confidence': 0.6269,
+  'status': 'WRONG'
+}
+
+Sentence 92
+{
+  'language_file': 'hindi.txt',
+  'original_sentence': 'वह प्रतिदिन समाचार पत्र पढ़ता है।',
+  'ground_truth': 'वह प्रतिदिन समाचार पत्र पढ़ता है।',
+  'predicted_sentence': 'वह प्रतिदिन समाचार पत्र पढ़ता है।',
+  'confidence': 0.6392,
+  'status': 'WRONG'
+}
+
+Sentence 102
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ರಾಮ ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಬೇಗ ಎದ್ದು ಯೋಗ ಮಾಡುತ್ತಾನೆ।',
+  'ground_truth': 'ರಾಮ ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಬೇಗ ಎದ್ದು ಯೋಗ ಮಾಡುತ್ತಾನೆ।',
+  'predicted_sentence': 'ರಾಮ ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ ಬೇಗ ಎದ್ದು ಯೋಗ ಮಾಡುತ್ತಾನೆ।',
+  'confidence': 0.5724,
+  'status': 'WRONG'
+}
+
+Sentence 106
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ರೈತನು ಹೊಲದಲ್ಲಿ ಗೋಧಿ ಕತ್ತರಿಸುತ್ತಿದ್ದಾನೆ।',
+  'ground_truth': 'ರೈತನು ಹೊಲದಲ್ಲಿ ಗೋಧಿ ಕತ್ತರಿಸುತ್ತಿದ್ದಾನೆ।',
+  'predicted_sentence': 'ರೈತನು ಹೊಲದಲ್ಲಿ ಗೋಧಿ ಕತ್ತರಿಸುತ್ತಿದ್ದಾನೆ।',
+  'confidence': 0.6271,
+  'status': 'WRONG'
+}
+
+Sentence 107
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾವು ನಮ್ಮ ತಂದೆತಾಯಿಯನ್ನು ಗೌರವಿಸಬೇಕು।',
+  'ground_truth': 'ನಾವು ನಮ್ಮ ತಂದೆತಾಯಿಯನ್ನು ಗೌರವಿಸಬೇಕು।',
+  'predicted_sentence': 'ನಾವು ನಮ್ಮ ತಂದೆತಾಯಿಯನ್ನು ಗೌರವಿಸಬೇಕು।',
+  'confidence': 0.6208,
+  'status': 'WRONG'
+}
+
+Sentence 113
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಳೆಯಿಂದ ನದಿಯ ನೀರು ಹೆಚ್ಚಾಗಿದೆ।',
+  'ground_truth': 'ಮಳೆಯಿಂದ ನದಿಯ ನೀರು ಹೆಚ್ಚಾಗಿದೆ।',
+  'predicted_sentence': 'ಮಳೆಯಿಂದ ನದಿಯ ನೀರು ಹೆಚ್ಚಾಗಿದೆ।',
+  'confidence': 0.6430,
+  'status': 'WRONG'
+}
+
+Sentence 115
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಗ್ರಾಮಸ್ಥರು ಒಟ್ಟಾಗಿ ಹಬ್ಬ ಆಚರಿಸುತ್ತಿದ್ದಾರೆ।',
+  'ground_truth': 'ಗ್ರಾಮಸ್ಥರು ಒಟ್ಟಾಗಿ ಹಬ್ಬ ಆಚರಿಸುತ್ತಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ಗ್ರಾಮಸ್ಥರು ಒಟ್ಟಾಗಿ ಹಬ್ಬ ಆಚರಿಸುತ್ತಿದ್ದಾರೆ।',
+  'confidence': 0.5973,
+  'status': 'WRONG'
+}
+
+Sentence 118
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಬಳಸಬೇಕು।',
+  'ground_truth': 'ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಬಳಸಬೇಕು।',
+  'predicted_sentence': 'ಸಮಯವನ್ನು ಸರಿಯಾಗಿ ಬಳಸಬೇಕು।',
+  'confidence': 0.5938,
+  'status': 'WRONG'
+}
+
+Sentence 119
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಸೂರ್ಯನು ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ।',
+  'ground_truth': 'ಸೂರ್ಯನು ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ।',
+  'predicted_sentence': 'ಸೂರ್ಯನು ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಉದಯಿಸುತ್ತಾನೆ।',
+  'confidence': 0.5781,
+  'status': 'WRONG'
+}
+
+Sentence 122
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವನು ತನ್ನ ತಾತನ ಜೊತೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು।',
+  'ground_truth': 'ಅವನು ತನ್ನ ತಾತನ ಜೊತೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು।',
+  'predicted_sentence': 'ಅವನು ತನ್ನ ತಾತನ ಜೊತೆ ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು।',
+  'confidence': 0.6065,
+  'status': 'WRONG'
+}
+
+Sentence 123
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಮಳೆಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು।',
+  'ground_truth': 'ಮಳೆಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು।',
+  'predicted_sentence': 'ಮಳೆಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ನೀರು ತುಂಬಿತ್ತು।',
+  'confidence': 0.6239,
+  'status': 'WRONG'
+}
+
+Sentence 125
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪರಿಸರ ರಕ್ಷಿಸಲು ಮರಗಳನ್ನು ನೆಡಬೇಕು।',
+  'ground_truth': 'ಪರಿಸರ ರಕ್ಷಿಸಲು ಮರಗಳನ್ನು ನೆಡಬೇಕು।',
+  'predicted_sentence': 'ಪರಿಸರ ರಕ್ಷಿಸಲು ಮರಗಳನ್ನು ನೆಡಬೇಕು।',
+  'confidence': 0.6487,
+  'status': 'WRONG'
+}
+
+Sentence 130
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವೃದ್ಧನು ನಿಧಾನವಾಗಿ ರಸ್ತೆ ದಾಟುತ್ತಿದ್ದನು।',
+  'ground_truth': 'ವೃದ್ಧನು ನಿಧಾನವಾಗಿ ರಸ್ತೆ ದಾಟುತ್ತಿದ್ದನು।',
+  'predicted_sentence': 'ವೃದ್ಧನು ನಿಧಾನವಾಗಿ ರಸ್ತೆ ದಾಟುತ್ತಿದ್ದನು।',
+  'confidence': 0.5736,
+  'status': 'WRONG'
+}
+
+Sentence 132
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾವು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಬೇಕು।',
+  'ground_truth': 'ನಾವು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಬೇಕು।',
+  'predicted_sentence': 'ನಾವು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಬೇಕು।',
+  'confidence': 0.6330,
+  'status': 'WRONG'
+}
+
+Sentence 137
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಪ್ರಯಾಣಿಕರು ಬಸ್ಸಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದರು।',
+  'ground_truth': 'ಪ್ರಯಾಣಿಕರು ಬಸ್ಸಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದರು।',
+  'predicted_sentence': 'ಪ್ರಯಾಣಿಕರು ಬಸ್ಸಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದರು।',
+  'confidence': 0.5803,
+  'status': 'WRONG'
+}
+
+Sentence 142
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಅವನು ಪ್ರತಿದಿನ ಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ।',
+  'ground_truth': 'ಅವನು ಪ್ರತಿದಿನ ಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ।',
+  'predicted_sentence': 'ಅವನು ಪ್ರತಿದಿನ ಪತ್ರಿಕೆ ಓದುತ್ತಾನೆ।',
+  'confidence': 0.6465,
+  'status': 'WRONG'
+}
+
+Sentence 146
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ಇಂದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತುಂಬಾ ಜನರಿದ್ದರು।',
+  'ground_truth': 'ಇಂದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತುಂಬಾ ಜನರಿದ್ದರು।',
+  'predicted_sentence': 'ಇಂದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ತುಂಬಾ ಜನರಿದ್ದರು।',
+  'confidence': 0.5162,
+  'status': 'WRONG'
+}
+
+Sentence 147
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಆವಿಷ್ಕಾರಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ।',
+  'ground_truth': 'ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಆವಿಷ್ಕಾರಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ವಿಜ್ಞಾನಿಗಳು ಹೊಸ ಆವಿಷ್ಕಾರಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ।',
+  'confidence': 0.5623,
+  'status': 'WRONG'
+}
+
+Sentence 148
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ನಾವು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಬೇಕು।',
+  'ground_truth': 'ನಾವು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಬೇಕು।',
+  'predicted_sentence': 'ನಾವು ಆರೋಗ್ಯದ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಬೇಕು।',
+  'confidence': 0.6184,
+  'status': 'WRONG'
+}
+
+Sentence 150
+{
+  'language_file': 'kannada.txt',
+  'original_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಕಂಪ್ಯೂಟರ್ ಕಲಿಯುತ್ತಿದ್ದಾರೆ।',
+  'ground_truth': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಕಂಪ್ಯೂಟರ್ ಕಲಿಯುತ್ತಿದ್ದಾರೆ।',
+  'predicted_sentence': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಕಂಪ್ಯೂಟರ್ ಕಲಿಯುತ್ತಿದ್ದಾರೆ।',
+  'confidence': 0.6358,
+  'status': 'WRONG'
+}
+
+Sentence 162
+{
+  'language_file': 'maithili.txt',
+  'original_sentence': 'छात्र सभ परीक्षा लेल मेहनत कए रहल छथि।',
+  'ground_truth': 'छात्र सभ परीक्षा लेल मेहनत कए रहल छथि।',
+  'predicted_sentence': 'छात्र सभ परीक्षा लेल मेहनत कए रहल छथि।',
+  'confidence': 0.6091,
+  'status': 'WRONG'
+}
+
+Sentence 163
+{
+  'language_file': 'maithili.txt',
+  'original_sentence': 'वर्षा सँ नदीक जल बढ़ि गेल अछि।',
+  'ground_truth': 'वर्षा सँ नदीक जल बढ़ि गेल अछि।',
+  'predicted_sentence': 'वर्षा सँ नदीक जल बढ़ि गेल अछि।',
+  'confidence': 0.5965,
+  'status': 'WRONG'
+}
+
+Sentence 180
+{
+  'language_file': 'maithili.txt',
+  'original_sentence': 'वृद्ध व्यक्ति धीरे-धीरे सड़क पार कए रहल छलाह।',
+  'ground_truth': 'वृद्ध व्यक्ति धीरे-धीरे सड़क पार कए रहल छलाह।',
+  'predicted_sentence': 'वृद्ध व्यक्ति धीरे-धीरे सड़क पार कए रहल छलाह।',
+  'confidence': 0.5777,
+  'status': 'WRONG'
+}
+
+Sentence 192
+{
+  'language_file': 'maithili.txt',
+  'original_sentence': 'ओ प्रतिदिन समाचार पत्र पढ़ैत छथि।',
+  'ground_truth': 'ओ प्रतिदिन समाचार पत्र पढ़ैत छथि।',
+  'predicted_sentence': 'ओ प्रतिदिन समाचार पत्र पढ़ैत छथि।',
+  'confidence': 0.6132,
+  'status': 'WRONG'
+}
+
+Sentence 201
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నేను ఈరోజు పాఠశాలకు వెళ్లడానికి ఆలస్యమైంది।',
+  'ground_truth': 'నేను ఈరోజు పాఠశాలకు వెళ్లడానికి ఆలస్యమైంది।',
+  'predicted_sentence': 'నేను ఈరోజు పాఠశాలకు వెళ్లడానికి ఆలస్యమైంది।',
+  'confidence': 0.6066,
+  'status': 'WRONG'
+}
+
+Sentence 202
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'రాము ప్రతిరోజూ ఉదయం త్వరగా లేచి యోగ చేస్తాడు।',
+  'ground_truth': 'రాము ప్రతిరోజూ ఉదయం త్వరగా లేచి యోగ చేస్తాడు।',
+  'predicted_sentence': 'రాము ప్రతిరోజూ ఉదయం త్వరగా లేచి యోగ చేస్తాడు।',
+  'confidence': 0.5079,
+  'status': 'WRONG'
+}
+
+Sentence 206
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'రైతు పొలంలో గోధుమ కోస్తున్నాడు।',
+  'ground_truth': 'రైతు పొలంలో గోధుమ కోస్తున్నాడు।',
+  'predicted_sentence': 'రైతు పొలంలో గోధుమ కోస్తున్నాడు।',
+  'confidence': 0.6235,
+  'status': 'WRONG'
+}
+
+Sentence 208
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'ఆమె గ్రంథాలయంలో కూర్చొని పుస్తకం చదువుతోంది।',
+  'ground_truth': 'ఆమె గ్రంథాలయంలో కూర్చొని పుస్తకం చదువుతోంది।',
+  'predicted_sentence': 'ఆమె గ్రంథాలయంలో కూర్చొని పుస్తకం చదువుతోంది।',
+  'confidence': 0.5509,
+  'status': 'WRONG'
+}
+
+Sentence 209
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'రైలు ఈరోజు ఆలస్యంగా వచ్చింది।',
+  'ground_truth': 'రైలు ఈరోజు ఆలస్యంగా వచ్చింది।',
+  'predicted_sentence': 'రైలు ఈరోజు ఆలస్యంగా వచ్చింది।',
+  'confidence': 0.5003,
+  'status': 'WRONG'
+}
+
+Sentence 210
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'డాక్టర్ రోగికి సమయానికి మందు తినమని చెప్పారు।',
+  'ground_truth': 'డాక్టర్ రోగికి సమయానికి మందు తినమని చెప్పారు।',
+  'predicted_sentence': 'డాక్టర్ రోగికి సమయానికి మందు తినమని చెప్పారు।',
+  'confidence': 0.5859,
+  'status': 'WRONG'
+}
+
+Sentence 211
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'చెట్లు మనకు స్వచ్ఛమైన గాలి ఇస్తాయి।',
+  'ground_truth': 'చెట్లు మనకు స్వచ్ఛమైన గాలి ఇస్తాయి।',
+  'predicted_sentence': 'చెట్లు మనకు స్వచ్ఛమైన గాలి ఇస్తాయి।',
+  'confidence': 0.6416,
+  'status': 'WRONG'
+}
+
+Sentence 212
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'విద్యార్థులు పరీక్షలకు కష్టపడుతున్నారు।',
+  'ground_truth': 'విద్యార్థులు పరీక్షలకు కష్టపడుతున్నారు।',
+  'predicted_sentence': 'విద్యార్థులు పరీక్షలకు కష్టపడుతున్నారు।',
+  'confidence': 0.5481,
+  'status': 'WRONG'
+}
+
+Sentence 216
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'నాకు గణిత సమస్యలు పరిష్కరించడం ఇష్టం।',
+  'ground_truth': 'నాకు గణిత సమస్యలు పరిష్కరించడం ఇష్టం।',
+  'predicted_sentence': 'నాకు గణిత సమస్యలు పరిష్కరించడం ఇష్టం।',
+  'confidence': 0.6493,
+  'status': 'WRONG'
+}
+
+Sentence 217
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పక్షులు ఉదయం మధురంగా కూస్తాయి।',
+  'ground_truth': 'పక్షులు ఉదయం మధురంగా కూస్తాయి।',
+  'predicted_sentence': 'పక్షులు ఉదయం మధురంగా కూస్తాయి।',
+  'confidence': 0.5121,
+  'status': 'WRONG'
+}
+
+Sentence 218
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'సమయాన్ని సరిగ్గా ఉపయోగించాలి।',
+  'ground_truth': 'సమయాన్ని సరిగ్గా ఉపయోగించాలి।',
+  'predicted_sentence': 'సమయాన్ని సరిగ్గా ఉపయోగించాలి।',
+  'confidence': 0.5134,
+  'status': 'WRONG'
+}
+
+Sentence 219
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'సూర్యుడు తూర్పు దిశలో ఉదయిస్తాడు।',
+  'ground_truth': 'సూర్యుడు తూర్పు దిశలో ఉదయిస్తాడు।',
+  'predicted_sentence': 'సూర్యుడు తూర్పు దిశలో ఉదయిస్తాడు।',
+  'confidence': 0.6255,
+  'status': 'WRONG'
+}
+
+Sentence 220
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'ground_truth': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'predicted_sentence': 'గురువు విద్యార్థులకు కొత్త పాఠం చెప్పారు।',
+  'confidence': 0.5563,
+  'status': 'WRONG'
+}
+
+Sentence 229
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'పుస్తకాలు చదవడం వల్ల జ్ఞానం పెరుగుతుంది।',
+  'ground_truth': 'పుస్తకాలు చదవడం వల్ల జ్ఞానం పెరుగుతుంది।',
+  'predicted_sentence': 'పుస్తకాలు చదవడం వల్ల జ్ఞానం పెరుగుతుంది।',
+  'confidence': 0.5352,
+  'status': 'WRONG'
+}
+
+Sentence 230
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'వృద్ధుడు నెమ్మదిగా రోడ్డును దాటుతున్నాడు।',
+  'ground_truth': 'వృద్ధుడు నెమ్మదిగా రోడ్డును దాటుతున్నాడు।',
+  'predicted_sentence': 'వృద్ధుడు నెమ్మదిగా రోడ్డును దాటుతున్నాడు।',
+  'confidence': 0.6052,
+  'status': 'WRONG'
+}
+
+Sentence 232
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'మనం ఇతరులకు సహాయం చేయాలి।',
+  'ground_truth': 'మనం ఇతరులకు సహాయం చేయాలి।',
+  'predicted_sentence': 'మనం ఇతరులకు సహాయం చేయాలి।',
+  'confidence': 0.5723,
+  'status': 'WRONG'
+}
+
+Sentence 238
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అడవిలో అనేక అడవి జంతువులు ఉన్నాయి।',
+  'ground_truth': 'అడవిలో అనేక అడవి జంతువులు ఉన్నాయి।',
+  'predicted_sentence': 'అడవిలో అనేక అడవి జంతువులు ఉన్నాయి।',
+  'confidence': 0.6173,
+  'status': 'WRONG'
+}
+
+Sentence 242
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అతను ప్రతిరోజూ వార్తాపత్రిక చదువుతాడు।',
+  'ground_truth': 'అతను ప్రతిరోజూ వార్తాపత్రిక చదువుతాడు।',
+  'predicted_sentence': 'అతను ప్రతిరోజూ వార్తాపత్రిక చదువుతాడు।',
+  'confidence': 0.6483,
+  'status': 'WRONG'
+}
+
+Sentence 243
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'విద్యార్థులు జాతీయ గీతం పాడారు।',
+  'ground_truth': 'విద్యార్థులు జాతీయ గీతం పాడారు।',
+  'predicted_sentence': 'విద్యార్థులు జాతీయ గీతం పాడారు।',
+  'confidence': 0.6488,
+  'status': 'WRONG'
+}
+
+Sentence 245
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'అమ్మమ్మ పిల్లలకు కథలు చెబుతుంది।',
+  'ground_truth': 'అమ్మమ్మ పిల్లలకు కథలు చెబుతుంది।',
+  'predicted_sentence': 'అమ్మమ్మ పిల్లలకు కథలు చెబుతుంది।',
+  'confidence': 0.6044,
+  'status': 'WRONG'
+}
+
+Sentence 248
+{
+  'language_file': 'telugu.txt',
+  'original_sentence': 'మన ఆరోగ్యాన్ని జాగ్రత్తగా చూసుకోవాలి।',
+  'ground_truth': 'మన ఆరోగ్యాన్ని జాగ్రత్తగా చూసుకోవాలి।',
+  'predicted_sentence': 'మన ఆరోగ్యాన్ని జాగ్రత్తగా చూసుకోవాలి।',
+  'confidence': 0.6363,
+  'status': 'WRONG'
+}
+
